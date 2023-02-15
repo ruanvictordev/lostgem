@@ -7,7 +7,16 @@ Estilo: 2D
 Inspiração: Pokemon e Zelda
 Gênero: RPG, Combate em turnos
 
-[JOÃO] Enredo: 
+Enredo: 
+Bem-vindo ao mundo de LostGem, um jogo de aventura épico que levará você a um mundo repleto de perigos e mistérios. Você assumirá o controle de quatro heróis corajosos: um cavaleiro habilidoso, um Druida astuto, um mago poderoso e uma valquíria valente. Cada um deles possui habilidades únicas que serão essenciais para vencer os desafios que encontrarão pela frente.
+
+O jogo é dividido em três fases emocionantes, cada uma com sua própria ambientação e conjunto de inimigos. Na primeira fase, você explorará a floresta, onde hordas de esqueletos se escondem entre as árvores. Na segunda fase, você entrará no cemitério e enfrentará um exército de esqueletos ainda mais implacável. Por fim, na terceira fase, você chegará ao castelo do boss, onde um poderoso vampiro guarda a mítica jóia "Opala".
+
+Você terá que usar toda a sua habilidade e estratégia para guiar seus heróis por cada fase, evitando armadilhas, desviando de inimigos e coletando tesouros ao longo do caminho. Cada fase será um desafio cada vez maior, exigindo que você aprenda com seus erros e se adapte rapidamente para sobreviver.
+
+Mas a recompensa final vale a pena: se você e seus heróis conseguirem superar os obstáculos e chegar ao castelo do vampiro, você enfrentará um dos chefes mais desafiadores de todos os tempos. E se você conseguir vencer o vampiro e tirar a "Opala" dele, você ganhará o jogo e se tornará um verdadeiro herói.
+
+Então, prepare-se para a aventura da sua vida com LostGem, onde você irá guiar seus heróis através de uma jornada incrível, enfrentando perigos e salvando o mundo!
 
 Níveis e fases: 3 fases (última fase tem que estar chovendo);
 
