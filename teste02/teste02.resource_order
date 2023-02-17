@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Sprites","order":12,"path":"folders/Sprites.yy",},
+    {"name":"Sons","order":1,"path":"folders/Sons.yy",},
+    {"name":"Caminhos","order":2,"path":"folders/Caminhos.yy",},
+    {"name":"Scripts","order":3,"path":"folders/Objetos/Scripts.yy",},
+    {"name":"Shaders","order":3,"path":"folders/Shaders.yy",},
+    {"name":"Fontes","order":4,"path":"folders/Fontes.yy",},
+    {"name":"Linhas do tempo","order":5,"path":"folders/Linhas do tempo.yy",},
+    {"name":"Objetos","order":6,"path":"folders/Objetos.yy",},
+    {"name":"Cenas","order":7,"path":"folders/Cenas.yy",},
+    {"name":"Sequências","order":8,"path":"folders/Sequências.yy",},
+    {"name":"Curvas da animação","order":9,"path":"folders/Curvas da animação.yy",},
+    {"name":"Anotações","order":10,"path":"folders/Anotações.yy",},
+    {"name":"Extensões","order":11,"path":"folders/Extensões.yy",},
+    {"name":"Ambientes","order":13,"path":"folders/Ambientes.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Sprite5","order":3,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"obj_parede","order":1,"path":"objects/obj_parede/obj_parede.yy",},
+    {"name":"testemovimento","order":5,"path":"sprites/testemovimento/testemovimento.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"spr_parede","order":1,"path":"sprites/spr_parede/spr_parede.yy",},
+  ],
+}
