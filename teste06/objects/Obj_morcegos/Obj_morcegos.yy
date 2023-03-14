@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_morcegos",
-    "path": "sprites/Spr_morcegos/Spr_morcegos.yy",
+    "name": "Spr_morcegos_voando",
+    "path": "sprites/Spr_morcegos_voando/Spr_morcegos_voando.yy",
   },
   "spriteMaskId": null,
   "visible": true,

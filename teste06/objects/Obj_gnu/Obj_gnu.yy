@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_gnu",
-    "path": "sprites/Spr_gnu/Spr_gnu.yy",
+    "name": "Spr_gnu_estatico",
+    "path": "sprites/Spr_gnu_estatico/Spr_gnu_estatico.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_dragon",
-    "path": "sprites/Spr_dragon/Spr_dragon.yy",
+    "name": "Spr_dragon_estatico",
+    "path": "sprites/Spr_dragon_estatico/Spr_dragon_estatico.yy",
   },
   "spriteMaskId": null,
   "visible": true,

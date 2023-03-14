@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_final_boss",
-    "path": "sprites/Spr_final_boss/Spr_final_boss.yy",
+    "name": "Spr_final_boss_estatico",
+    "path": "sprites/Spr_final_boss_estatico/Spr_final_boss_estatico.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_aldeao2",
-    "path": "sprites/Spr_aldeao2/Spr_aldeao2.yy",
+    "name": "Spr_aldeao2_mov_esquerda",
+    "path": "sprites/Spr_aldeao2_mov_esquerda/Spr_aldeao2_mov_esquerda.yy",
   },
   "spriteMaskId": null,
   "visible": true,
