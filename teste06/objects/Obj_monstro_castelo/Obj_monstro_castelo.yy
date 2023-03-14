@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_monstro_castelo",
-    "path": "sprites/Spr_monstro_castelo/Spr_monstro_castelo.yy",
+    "name": "Spr_monstro_castelo_voando",
+    "path": "sprites/Spr_monstro_castelo_voando/Spr_monstro_castelo_voando.yy",
   },
   "spriteMaskId": null,
   "visible": true,
