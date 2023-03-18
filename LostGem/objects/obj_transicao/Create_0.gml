@@ -6,3 +6,8 @@ yy = 0;
 
 escurecer = true;
 alpha = 0;
+
+direcao = 0;
+
+cor = c_black;
+vel = 0.09;

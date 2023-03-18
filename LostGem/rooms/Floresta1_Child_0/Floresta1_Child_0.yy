@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "Floresta1_Child_0",
-  "creationCodeFile": "${project_dir}/rooms/Ambiente1/RoomCreationCode.gml",
+  "creationCodeFile": "${project_dir}/rooms/Floresta1/RoomCreationCode.gml",
   "inheritCode": true,
   "inheritCreationOrder": true,
   "inheritLayers": true,
@@ -146,7 +146,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_33BD7923","colour":4294967295,"frozen":true,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":2.0,"x":736.0,"y":392.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7CFF1BC4","colour":4294967295,"frozen":true,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":2.25,"x":736.0,"y":60.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1F11C65","colour":4294967295,"frozen":true,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.75,"x":736.0,"y":-4.0,},
-      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
+      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":false,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"personagem","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":true,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":false,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_674F9B0F_1","colour":4294967295,"frozen":true,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_674F9B0F_1","path":"rooms/Floresta1/Floresta1.yy",},"inheritItemSettings":true,"isDnd":false,"objectId":{"name":"camera","path":"objects/camera/camera.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":64.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
