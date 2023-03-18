@@ -12,4 +12,6 @@ veloc = 2;
 
 dir = 0;
 
-state = scr_do_personagem_andando;
+ativo = true;
+
+movendo = false;
