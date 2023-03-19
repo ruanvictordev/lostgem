@@ -1,55 +1,61 @@
-# LostGem
+<h1 align="center">
+    <p>LostGem</p>
+</h1>
+
+## 📘 About
+
+- Style: 2D
+- Inspiration: Pokemon and Zelda
+- Genre: RPG, Turn-based Combat
+
+### History: 
+
+Welcome to the world of LostGem, an epic adventure game that will take you into a world full of dangers and mysteries. You will take control of four brave heroes: a skilled knight, a cunning Druid, a powerful mage and a brave valkyrie. Each of them has unique skills that will be essential to overcome the challenges they will face.
+
+The game is divided into three exciting levels, each with its own setting and set of enemies. In the first level, you'll explore the forest, where hordes of skeletons hide among the trees. In the second phase, you'll enter the cemetery and face an even more relentless army of skeletons. Finally, in the third stage, you'll reach the boss's castle, where a powerful vampire guards the mythical jewel "Opal".
+
+You'll have to use all your skill and strategy to guide your heroes through each level, avoiding traps, dodging enemies and collecting treasures along the way. Each stage will be an ever-increasing challenge, requiring you to learn from your mistakes and adapt quickly to survive.
+
+But the final reward is worth it: if you and your heroes manage to overcome the obstacles and reach the vampire's castle, you will face one of the most challenging bosses of all time. And if you manage to beat the vampire and take the "Opal" from him, then you will win the game and become a real hero.
+
+So get ready for the adventure of a lifetime with LostGem, where you'll guide your heroes through an incredible journey, facing dangers and saving the world!
 
 
-Equipe: Ruan, José, Jociel e Bruno php.php;
+## 🧙 Characters
 
-Estilo: 2D
-Inspiração: Pokemon e Zelda
-Gênero: RPG, Combate em turnos
+### Player Characters: 
 
-Enredo: 
-Bem-vindo ao mundo de LostGem, um jogo de aventura épico que levará você a um mundo repleto de perigos e mistérios. Você assumirá o controle de quatro heróis corajosos: um cavaleiro habilidoso, um Druida astuto, um mago poderoso e uma valquíria valente. Cada um deles possui habilidades únicas que serão essenciais para vencer os desafios que encontrarão pela frente.
+- Knight
+- Mage 
+- Druid 
+- Valkyrie
 
-O jogo é dividido em três fases emocionantes, cada uma com sua própria ambientação e conjunto de inimigos. Na primeira fase, você explorará a floresta, onde hordas de esqueletos se escondem entre as árvores. Na segunda fase, você entrará no cemitério e enfrentará um exército de esqueletos ainda mais implacável. Por fim, na terceira fase, você chegará ao castelo do boss, onde um poderoso vampiro guarda a mítica jóia "Opala".
+### Random Enemyes: 
 
-Você terá que usar toda a sua habilidade e estratégia para guiar seus heróis por cada fase, evitando armadilhas, desviando de inimigos e coletando tesouros ao longo do caminho. Cada fase será um desafio cada vez maior, exigindo que você aprenda com seus erros e se adapte rapidamente para sobreviver.
+- Goblin(Forest)
+- Skeleton(Graveyard)
+- Lamia(Castle)
 
-Mas a recompensa final vale a pena: se você e seus heróis conseguirem superar os obstáculos e chegar ao castelo do vampiro, você enfrentará um dos chefes mais desafiadores de todos os tempos. E se você conseguir vencer o vampiro e tirar a "Opala" dele, você ganhará o jogo e se tornará um verdadeiro herói.
+### Boss: 
 
-Então, prepare-se para a aventura da sua vida com LostGem, onde você irá guiar seus heróis através de uma jornada incrível, enfrentando perigos e salvando o mundo!
+- Leshy(Forest)
+- Vampire(Castle)
 
-Níveis e fases: 3 fases (última fase tem que estar chovendo);
+## 🔨 Tools
 
-Personagens do jogador: Cavaleiro, Mago, Druida, Valquiria
-Inimigos Random: Goblin(Floresta), Esqueleto(Cemitério), Lamia(Castelo)
-Inimigo Boss: Leshy(Floresta), Vampiro( Castelo)
+- [GameMaker Studio](https://manual-br.yoyogames.com/#t=Content.htm)
 
-Cenários: Floresta, Cemitério, Castelo
-Diálogos:
-Sons do jogo: 
+## 🤝 How Contribute
 
-Imagens:
+```bash
+    # 1. Fork the project;
+    # 2. Clone your forked project;
+    # 3. Before your changes, realize the pull request;
+```
 
-(Guerreiro)
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFyEclcbc1m8fvBLNIxUyD4Co42LuDQImfg&usqp=CAU
+## 👨‍💻 Autors
 
-(Mago)
-https://cdn.domestika.org/c_fit,dpr_auto,f_auto,t_base_params,w_820/v1642367965/content-items/010/219/099/mago%2520pixel-original.jpg?1642367965
-
-(druida)
-https://cdna.artstation.com/p/assets/images/images/017/225/960/original/sven-thole-druid-idle.gif?1555110515
-
-(Leshy, Boss floresta)
-https://cdn.dribbble.com/users/4986639/screenshots/15019358/media/50e9315f30354a68bc8e99ce99dff19e.png?compress=1&resize=400x300&vertical=top
-
-(Goblin)
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F765189792933764927%2F&psig=AOvVaw3lRLmTYUEDI5P0rL7ryyEE&ust=1676499583326000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCND61-KFlv0CFQAAAAAdAAAAABAQ
-
-(Lamia)
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FTerraria%2Fcomments%2Fhxp0ee%2F2_i_made_a_stronger_version_of_the_lamia_to_spice%2F&psig=AOvVaw0nDTHQEp3v8lV_7XueIYp2&ust=1676499736580000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjPtqyGlv0CFQAAAAAdAAAAABAP
-
-(Dracula, Boss castelo)
-https://64.media.tumblr.com/cc2c82870cfd5e23bb5db7b866731bfc/be60a6abf0b30edb-5a/s500x750/a5bfe1d47dd25097272eb3cbcf8a646779500b8e.gifv
-
-(Esqueleto)
-https://thumbs.dreamstime.com/z/car%C3%A1ter-de-pixel-vetorial-ilustra%C3%A7%C3%A3o-do-esqueleto-com-blindagem-e-espada-isolada-em-branco-estilo-arte-por-p%C3%ADxeis-escudo-sobre-200134191.jpg
+- [Bruno Lima](https://github.com/brunolimapinheiro)
+- [João Carlos](https://github.com/OMaskara310)
+- [Jociel Andrade](https://github.com/JociS4)
+- [Ruan Victor](https://github.com/ruanvcg)
