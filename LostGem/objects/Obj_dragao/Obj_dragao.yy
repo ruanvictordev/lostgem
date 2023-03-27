@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_monstro",
+  "name": "Obj_dragao",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "monstro_do_castelo_voando",
-    "path": "sprites/monstro_do_castelo_voando/monstro_do_castelo_voando.yy",
+    "name": "dragao_estatico",
+    "path": "sprites/dragao_estatico/dragao_estatico.yy",
   },
   "spriteMaskId": null,
   "visible": true,
