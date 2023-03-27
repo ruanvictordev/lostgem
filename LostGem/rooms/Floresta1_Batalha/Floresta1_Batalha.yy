@@ -5,43 +5,42 @@
   "creationCodeFile": "${project_dir}/rooms/Floresta1/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": true,
-  "inheritLayers": true,
-  "instanceCreationOrder": [
-    {"name":"inst_1B2E5A2B","path":"rooms/Floresta1_Batalha/Floresta1_Batalha.yy",},
-  ],
+  "inheritLayers": false,
+  "instanceCreationOrder": [],
   "isDnd": false,
   "layers": [
-    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"t_topo","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":true,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":false,"layers":[],"properties":[],"tiles":{"SerialiseHeight":16,"SerialiseWidth":22,"TileCompressedData":[
--352,0,],"TileDataFormat":1,},"tilesetId":{"name":"ts_natureza","path":"tilesets/ts_natureza/ts_natureza.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"colisao","depth":100,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":false,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"personagem","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1B2E5A2B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_monstro","path":"objects/Obj_monstro/Obj_monstro.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":224.0,"y":32.0,},
-      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
-    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"t_flora","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":true,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":16,"SerialiseWidth":22,"TileCompressedData":[
--352,0,],"TileDataFormat":1,},"tilesetId":{"name":"ts_natureza","path":"tilesets/ts_natureza/ts_natureza.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"t_agua","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":true,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":16,"SerialiseWidth":22,"TileCompressedData":[
--352,0,],"TileDataFormat":1,},"tilesetId":{"name":"ts_natureza","path":"tilesets/ts_natureza/ts_natureza.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"t_grama","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":true,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":16,"SerialiseWidth":22,"TileSerialiseData":[
-935,936,934,935,936,934,935,936,934,935,936,934,935,936,934,935,936,934,935,936,934,935,
-935,936,934,935,936,935,936,936,935,936,936,935,936,935,936,935,936,934,935,935,936,935,
-935,935,936,935,936,934,935,936,935,936,936,934,935,935,936,935,936,935,936,935,936,935,
-935,935,936,935,935,936,936,935,936,935,936,935,936,936,934,935,936,934,935,936,934,935,
-935,936,935,936,936,935,936,936,934,935,936,935,936,935,936,935,936,935,936,936,934,935,
-935,936,934,935,936,935,936,935,936,935,936,934,935,935,936,935,936,935,936,935,936,935,
-935,936,934,935,936,935,936,936,934,935,936,935,936,936,934,935,936,934,935,935,936,935,
-935,936,935,936,935,936,936,935,936,935,936,935,936,935,936,934,935,934,935,934,935,935,
-935,936,935,936,935,936,935,935,936,935,936,934,935,935,936,935,936,935,936,935,936,935,
-935,936,935,936,936,935,936,935,936,935,936,935,936,935,936,935,936,934,935,935,936,935,
-936,936,935,936,936,935,936,934,935,934,935,935,936,934,935,935,936,935,936,935,936,935,
-935,936,934,935,936,935,936,935,936,935,936,934,935,934,935,934,935,935,936,935,936,935,
-935,935,936,935,936,934,935,934,935,935,936,935,936,935,936,935,936,934,935,935,936,935,
-935,935,936,935,936,934,935,935,936,934,935,935,936,935,936,935,936,934,935,935,936,934,
-935,935,936,935,936,934,935,935,936,934,935,935,936,935,936,935,936,935,936,935,936,935,
-935,935,936,935,936,934,935,935,936,935,936,935,936,935,936,934,935,935,936,934,935,934,
-],},"tilesetId":{"name":"ts_natureza","path":"tilesets/ts_natureza/ts_natureza.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"t_chao","depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":true,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":16,"SerialiseWidth":22,"TileCompressedData":[
+    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"t_topo","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":false,"layers":[],"properties":[],"tiles":{"SerialiseHeight":16,"SerialiseWidth":22,"TileCompressedData":[
+-15,0,-7,-2147483648,-15,0,-7,-2147483648,-15,0,-7,-2147483648,-15,0,-7,-2147483648,-15,0,-7,-2147483648,-15,0,
+-7,-2147483648,-15,0,-7,-2147483648,-15,0,-183,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"ts_natureza","path":"tilesets/ts_natureza/ts_natureza.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"colisao","depth":100,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":false,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"inimigo","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"personagem","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
+    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"t_flora","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":16,"SerialiseWidth":22,"TileCompressedData":[
+-15,0,-7,-2147483648,-15,0,-7,-2147483648,-15,0,-7,-2147483648,-15,0,-7,-2147483648,-15,0,-7,-2147483648,-15,0,
+-7,-2147483648,-15,0,-7,-2147483648,-15,0,-183,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"ts_natureza","path":"tilesets/ts_natureza/ts_natureza.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"t_agua","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":16,"SerialiseWidth":22,"TileCompressedData":[
+-15,0,-7,-2147483648,-15,0,-7,-2147483648,-15,0,-7,-2147483648,-15,0,-7,-2147483648,-15,0,-7,-2147483648,-15,0,
+-7,-2147483648,-15,0,-7,-2147483648,-15,0,-183,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"ts_natureza","path":"tilesets/ts_natureza/ts_natureza.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"t_grama","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":16,"SerialiseWidth":22,"TileCompressedData":[
+1,934,-3,935,1,872,-3,0,1,902,-10,903,1,776,-3,935,6,775,903,776,872,0,
+838,-5,839,1,840,-6,0,11,870,935,934,934,872,0,902,904,0,870,934,-4,935,1,
+807,-5,839,2,840,870,-3,935,14,807,839,840,0,0,902,776,935,775,903,776,935,934,
+934,-3,935,18,872,870,934,935,775,776,935,807,839,840,838,808,934,872,0,870,935,934,
+-3,935,68,775,904,870,935,935,872,870,934,935,935,872,870,935,935,807,840,902,903,776,
+934,935,775,904,0,902,776,935,872,870,935,934,935,807,808,935,775,776,807,840,838,808,
+935,935,872,838,839,839,808,935,872,870,935,934,935,934,935,934,872,902,776,807,808,775,
+903,776,872,870,934,-3,935,56,872,902,776,935,775,903,776,935,872,0,870,934,935,872,
+0,870,872,902,903,903,776,935,872,0,870,935,872,0,902,776,807,839,808,935,935,807,
+839,808,872,0,838,839,808,935,872,0,902,776,807,840,0,870,935,935,775,776,-3,935,
+39,934,807,840,870,934,775,903,872,0,838,808,935,807,840,870,935,775,904,902,903,903,
+776,935,934,872,902,903,904,0,807,840,870,775,776,934,807,808,935,807,-3,839,51,840,
+902,776,935,872,0,0,838,839,935,807,808,872,902,776,935,775,903,903,776,935,775,904,
+0,870,775,904,838,839,808,935,935,934,935,807,839,808,935,807,840,0,870,934,872,838,
+839,808,872,0,870,934,-5,935,16,934,935,935,934,935,807,839,808,935,807,808,934,935,
+807,839,808,-3,935,],"TileDataFormat":1,},"tilesetId":{"name":"ts_natureza","path":"tilesets/ts_natureza/ts_natureza.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"t_chao","depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":16,"SerialiseWidth":22,"TileCompressedData":[
 -352,932,],"TileDataFormat":1,},"tilesetId":{"name":"ts_natureza","path":"tilesets/ts_natureza/ts_natureza.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4278190080,"depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":true,"hspeed":0.0,"htiled":false,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4278190080,"depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "parent": {
     "name": "Floresta",
@@ -62,7 +61,7 @@
     "Height": 384,
     "inheritRoomSettings": false,
     "persistent": false,
-    "Width": 512,
+    "Width": 528,
   },
   "sequenceId": null,
   "views": [
