@@ -4,7 +4,7 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 para obter mais informações
 if(ativo == true && global.batalha == false){
 		
-	#region // movimento
+	#region // movimento 
 	
 	right = keyboard_check(ord("D"));
 	up = keyboard_check(ord("W"));
@@ -13,7 +13,7 @@ if(ativo == true && global.batalha == false){
 
 	#endregion
 	
-	#region //colisao horizontal
+	#region // colisao horizontal
 	
 	hveloc = (right - left) * veloc;
 	
