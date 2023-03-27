@@ -23,8 +23,8 @@ if (global.batalha == false){
 		global.intervalo_batalha = 1000;	
 	}
 }
-if (room == Floresta1_Batalha){ 
-	if (global.batalha == false){ //saindo batalha
+if (room == Floresta1_Batalha){
+	if (global.batalha == false){
 		var tran = instance_create_layer(x, y, "Personagem", obj_transicao);
 		tran.destino = origem;
 		tran.xx = origemx;
@@ -33,11 +33,5 @@ if (room == Floresta1_Batalha){
 		
 		tran.cor = c_green;
 		tran.vel = 0.1
-	}
-	
-	// está na batalha
-	// chequando se a inimigo na batalha
-	if (!instance_exists(obj_monstro)){
-		global.batalha = false;
 	}
 }
