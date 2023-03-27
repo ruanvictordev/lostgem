@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite19",
-  "bbox_bottom": 0,
+  "name": "monstro_do_castelo_voando",
+  "bbox_bottom": 156,
   "bbox_left": 0,
-  "bbox_right": 0,
+  "bbox_right": 99,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,39 +13,27 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"805222e1-2008-492b-915f-2b9abb856fd7",},
-
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"692cbc04-dfa6-4e4f-8a8d-21c4dc45c4eb",},
-
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4b255034-39d2-47c7-872e-beafc9aa49db",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4650671c-d0a7-403f-b267-f13c52a5e28b",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 157,
   "HTile": false,
   "layers": [
-
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d36c82e0-cd1d-44db-abcf-056e3b6e23b5","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
-
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"54f013cd-fd27-49e2-9cdd-06f1b5a2ddca","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
-
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"183b42c3-a4f9-42d2-82ac-4a1077c1cf80","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
-
-    "name": "LostGem",
-    "path": "LostGem.yyp",
-
+    "name": "inimigos",
+    "path": "folders/Sprites/inimigos.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite19",
+    "name": "monstro_do_castelo_voando",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -56,22 +44,19 @@
     "events": {"resourceType":"KeyframeStore<MessageEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "eventStubScript": null,
     "eventToFunction": {},
-    "length": 1.0,
+    "length": 2.0,
     "lockOrigin": false,
     "moments": {"resourceType":"KeyframeStore<MomentsEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 7.0,
     "playbackSpeedType": 0,
     "showBackdrop": true,
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"805222e1-2008-492b-915f-2b9abb856fd7","path":"sprites/Sprite19/Sprite19.yy",},},},"Disabled":false,"id":"50484c0c-d65b-47b9-a016-47c273a0644e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"692cbc04-dfa6-4e4f-8a8d-21c4dc45c4eb","path":"sprites/Sprite19/Sprite19.yy",},},},"Disabled":false,"id":"f2a31cff-7814-4bb4-b19d-f8eca21eb8ed","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4b255034-39d2-47c7-872e-beafc9aa49db","path":"sprites/monstro_do_castelo_voando/monstro_do_castelo_voando.yy",},},},"Disabled":false,"id":"233cd9cf-8039-4833-b027-cd897e08a1a9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4650671c-d0a7-403f-b267-f13c52a5e28b","path":"sprites/monstro_do_castelo_voando/monstro_do_castelo_voando.yy",},},},"Disabled":false,"id":"f906e172-3464-412d-880a-62b86ec7e97f","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -87,5 +72,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 100,
 }
