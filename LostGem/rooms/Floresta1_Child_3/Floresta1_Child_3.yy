@@ -2,8 +2,8 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "Floresta1_Child_3",
-  "creationCodeFile": "${project_dir}/rooms/Floresta1_Child_3/RoomCreationCode.gml",
-  "inheritCode": false,
+  "creationCodeFile": "${project_dir}/rooms/Floresta1/RoomCreationCode.gml",
+  "inheritCode": true,
   "inheritCreationOrder": true,
   "inheritLayers": true,
   "instanceCreationOrder": [
@@ -173,7 +173,7 @@
   },
   "roomSettings": {
     "Height": 450,
-    "inheritRoomSettings": false,
+    "inheritRoomSettings": true,
     "persistent": false,
     "Width": 720,
   },
