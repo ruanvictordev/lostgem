@@ -1,10 +1,17 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
+<<<<<<< HEAD:LostGem/sprites/Sprite15/Sprite15.yy
+  "name": "Sprite15",
+  "bbox_bottom": 69,
+  "bbox_left": 0,
+  "bbox_right": 41,
+=======
   "name": "monstro_do_castelo_voando",
   "bbox_bottom": 156,
   "bbox_left": 0,
   "bbox_right": 99,
+>>>>>>> master:LostGem/sprites/monstro_do_castelo_voando/monstro_do_castelo_voando.yy
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -18,7 +25,11 @@
   ],
   "gridX": 0,
   "gridY": 0,
+<<<<<<< HEAD:LostGem/sprites/Sprite15/Sprite15.yy
+  "height": 70,
+=======
   "height": 157,
+>>>>>>> master:LostGem/sprites/monstro_do_castelo_voando/monstro_do_castelo_voando.yy
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"183b42c3-a4f9-42d2-82ac-4a1077c1cf80","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -72,5 +83,9 @@
   },
   "type": 0,
   "VTile": false,
+<<<<<<< HEAD:LostGem/sprites/Sprite15/Sprite15.yy
+  "width": 42,
+=======
   "width": 100,
+>>>>>>> master:LostGem/sprites/monstro_do_castelo_voando/monstro_do_castelo_voando.yy
 }

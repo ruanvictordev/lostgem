@@ -55,9 +55,14 @@
     {"id":{"name":"BODY_skeleton_movi_esquerda","path":"sprites/BODY_skeleton_movi_esquerda/BODY_skeleton_movi_esquerda.yy",},},
     {"id":{"name":"spt_tile_objetovila","path":"sprites/spt_tile_objetovila/spt_tile_objetovila.yy",},},
     {"id":{"name":"BODY_skeleton_movi_cima","path":"sprites/BODY_skeleton_movi_cima/BODY_skeleton_movi_cima.yy",},},
+<<<<<<< HEAD
+    {"id":{"name":"obj_monstro","path":"objects/obj_monstro/obj_monstro.yy",},},
+    {"id":{"name":"obj_monstro2","path":"objects/obj_monstro2/obj_monstro2.yy",},},
+=======
     {"id":{"name":"ts_vila2","path":"tilesets/ts_vila2/ts_vila2.yy",},},
     {"id":{"name":"spt_tile_objetovila2","path":"sprites/spt_tile_objetovila2/spt_tile_objetovila2.yy",},},
     {"id":{"name":"Obj_monstro","path":"objects/Obj_monstro/Obj_monstro.yy",},},
+>>>>>>> master
     {"id":{"name":"BODY_skeleton_parado_colisao","path":"sprites/BODY_skeleton_parado_colisao/BODY_skeleton_parado_colisao.yy",},},
 
     {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},},
@@ -71,6 +76,11 @@
     {"id":{"name":"Floresta1_Child_3","path":"rooms/Floresta1_Child_3/Floresta1_Child_3.yy",},},
 
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
+<<<<<<< HEAD
+    {"id":{"name":"spt_tile_natureza","path":"sprites/spt_tile_natureza/spt_tile_natureza.yy",},},
+    {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
+    {"id":{"name":"Sprite1516","path":"sprites/Sprite1516/Sprite1516.yy",},},
+=======
     {"id":{"name":"ts_vila1","path":"tilesets/ts_vila1/ts_vila1.yy",},},
     {"id":{"name":"spt_tile_itens","path":"sprites/spt_tile_itens/spt_tile_itens.yy",},},
     {"id":{"name":"spt_tile_natureza","path":"sprites/spt_tile_natureza/spt_tile_natureza.yy",},},
@@ -82,6 +92,7 @@
     {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
 
+>>>>>>> master
     {"id":{"name":"BODY_skeleton_parado_esquerdo","path":"sprites/BODY_skeleton_parado_esquerdo/BODY_skeleton_parado_esquerdo.yy",},},
     {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},},
     {"id":{"name":"camera","path":"objects/camera/camera.yy",},},

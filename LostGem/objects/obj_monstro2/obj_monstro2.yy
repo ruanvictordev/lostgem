@@ -1,12 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_monstro",
+  "name": "obj_monstro2",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -14,7 +11,10 @@
     "name": "Objetos",
     "path": "folders/Objetos.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_monstro",
+    "path": "objects/obj_monstro/obj_monstro.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,13 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-<<<<<<< HEAD
-    "name": "Sprite1516",
-    "path": "sprites/Sprite1516/Sprite1516.yy",
-=======
-    "name": "monstro_do_castelo_voando",
-    "path": "sprites/monstro_do_castelo_voando/monstro_do_castelo_voando.yy",
->>>>>>> master
+    "name": "Sprite15",
+    "path": "sprites/Sprite15/Sprite15.yy",
   },
   "spriteMaskId": null,
   "visible": true,
