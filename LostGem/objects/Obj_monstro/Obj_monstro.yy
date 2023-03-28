@@ -31,13 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-<<<<<<< HEAD
     "name": "Sprite1516",
     "path": "sprites/Sprite1516/Sprite1516.yy",
-=======
-    "name": "monstro_do_castelo_voando",
-    "path": "sprites/monstro_do_castelo_voando/monstro_do_castelo_voando.yy",
->>>>>>> master
   },
   "spriteMaskId": null,
   "visible": true,
