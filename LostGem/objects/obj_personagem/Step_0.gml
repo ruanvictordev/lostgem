@@ -55,6 +55,8 @@ if(ativo == true && global.batalha == false){
 		global.intervalo_batalha --;
 	}
 	
+
+	
 	#endregion
 	
 	#region //direcao com mouse
@@ -103,6 +105,7 @@ if(ativo == true && global.batalha == false){
 	}
 	
 	#endregion
+	
 	
 	#region //direcao com o teclado
 	/*
