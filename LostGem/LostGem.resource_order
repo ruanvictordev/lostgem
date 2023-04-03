@@ -1,8 +1,14 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Castelo","order":1,"path":"folders/Ambientes/Castelo.yy",},
+  ],
   "ResourceOrderSettings": [
-    {"name":"Sprite05","order":1,"path":"sprites/Sprite05/Sprite05.yy",},
-    {"name":"Sprite1516","order":2,"path":"sprites/Sprite1516/Sprite1516.yy",},
+    {"name":"personagem_misterioso","order":4,"path":"sprites/personagem_misterioso/personagem_misterioso.yy",},
+    {"name":"Sprite18","order":1,"path":"sprites/Sprite18/Sprite18.yy",},
+    {"name":"Interior_Casa","order":1,"path":"rooms/Interior_Casa/Interior_Casa.yy",},
+    {"name":"Sprite05","order":2,"path":"sprites/Sprite05/Sprite05.yy",},
+    {"name":"Ambiente1_Child_1","order":2,"path":"rooms/Ambiente1_Child_1/Ambiente1_Child_1.yy",},
+    {"name":"Sprite1516","order":3,"path":"sprites/Sprite1516/Sprite1516.yy",},
     {"name":"obj_monstro2","order":1,"path":"objects/obj_monstro2/obj_monstro2.yy",},
   ],
 }
