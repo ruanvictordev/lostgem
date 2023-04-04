@@ -9,6 +9,7 @@
     {"name":"Sprite05","order":2,"path":"sprites/Sprite05/Sprite05.yy",},
     {"name":"Ambiente1_Child_1","order":2,"path":"rooms/Ambiente1_Child_1/Ambiente1_Child_1.yy",},
     {"name":"Sprite1516","order":3,"path":"sprites/Sprite1516/Sprite1516.yy",},
+    {"name":"Castelo_Ponte","order":1,"path":"rooms/Castelo_Ponte/Castelo_Ponte.yy",},
     {"name":"obj_monstro2","order":1,"path":"objects/obj_monstro2/obj_monstro2.yy",},
   ],
 }
