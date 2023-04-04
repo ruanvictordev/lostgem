@@ -40,6 +40,7 @@
     "IDEVersion": "2023.2.0.71",
   },
   "resources": [
+<<<<<<< HEAD:LostGem/LostGem/LostGem.yyp
     {"id":{"name":"Aldeao3_andano_esquerda","path":"sprites/Aldeao3_andano_esquerda/Aldeao3_andano_esquerda.yy",},},
     {"id":{"name":"Aldeao2_andano_direita","path":"sprites/Aldeao2_andano_direita/Aldeao2_andano_direita.yy",},},
     {"id":{"name":"Dragao","path":"objects/Dragao/Dragao.yy",},},
@@ -50,6 +51,14 @@
     {"id":{"name":"spt_tile_natureza2","path":"sprites/spt_tile_natureza2/spt_tile_natureza2.yy",},},
     {"id":{"name":"monstro_do_castelo_ataque1","path":"sprites/monstro_do_castelo_ataque1/monstro_do_castelo_ataque1.yy",},},
     {"id":{"name":"Aldeao3","path":"objects/Aldeao3/Aldeao3.yy",},},
+=======
+    {"id":{"name":"Obj_dragao","path":"objects/Obj_dragao/Obj_dragao.yy",},},
+    {"id":{"name":"Floresta1_Child_1","path":"rooms/Floresta1_Child_1/Floresta1_Child_1.yy",},},
+    {"id":{"name":"Floresta1_Batalha","path":"rooms/Floresta1_Batalha/Floresta1_Batalha.yy",},},
+    {"id":{"name":"tela_inicio","path":"rooms/tela_inicio/tela_inicio.yy",},},
+    {"id":{"name":"spt_tile_natureza2","path":"sprites/spt_tile_natureza2/spt_tile_natureza2.yy",},},
+    {"id":{"name":"monstro_do_castelo_ataque_basico","path":"sprites/monstro_do_castelo_ataque_basico/monstro_do_castelo_ataque_basico.yy",},},
+>>>>>>> 89467d5f5084264922ccace5892e30e6f1e823ae:LostGem/LostGem.yyp
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
     {"id":{"name":"personagem_misterioso","path":"sprites/personagem_misterioso/personagem_misterioso.yy",},},
     {"id":{"name":"FundoFloresta","path":"sounds/FundoFloresta/FundoFloresta.yy",},},
@@ -57,6 +66,7 @@
     {"id":{"name":"obj_boneco_treinamento","path":"objects/obj_boneco_treinamento/obj_boneco_treinamento.yy",},},
     {"id":{"name":"Floresta1","path":"rooms/Floresta1/Floresta1.yy",},},
     {"id":{"name":"obj_batalha","path":"objects/obj_batalha/obj_batalha.yy",},},
+<<<<<<< HEAD:LostGem/LostGem/LostGem.yyp
     {"id":{"name":"Object13","path":"objects/Object13/Object13.yy",},},
     {"id":{"name":"BODY_skeleton_movi_esquerda","path":"sprites/BODY_skeleton_movi_esquerda/BODY_skeleton_movi_esquerda.yy",},},
     {"id":{"name":"BODY_skeleton_movi_cima","path":"sprites/BODY_skeleton_movi_cima/BODY_skeleton_movi_cima.yy",},},
@@ -65,17 +75,31 @@
     {"id":{"name":"Aldeao2_andano_esquerda","path":"sprites/Aldeao2_andano_esquerda/Aldeao2_andano_esquerda.yy",},},
     {"id":{"name":"BODY_skeleton_parado_colisao","path":"sprites/BODY_skeleton_parado_colisao/BODY_skeleton_parado_colisao.yy",},},
     {"id":{"name":"Pequeno_Gueirreiro_Andano","path":"sprites/Pequeno_Gueirreiro_Andano/Pequeno_Gueirreiro_Andano.yy",},},
+=======
+    {"id":{"name":"BODY_skeleton_movi_esquerda","path":"sprites/BODY_skeleton_movi_esquerda/BODY_skeleton_movi_esquerda.yy",},},
+    {"id":{"name":"BODY_skeleton_movi_cima","path":"sprites/BODY_skeleton_movi_cima/BODY_skeleton_movi_cima.yy",},},
+    {"id":{"name":"Ambiente1_Child_2","path":"rooms/Ambiente1_Child_2/Ambiente1_Child_2.yy",},},
+    {"id":{"name":"Obj_monstro","path":"objects/Obj_monstro/Obj_monstro.yy",},},
+    {"id":{"name":"BODY_skeleton_parado_colisao","path":"sprites/BODY_skeleton_parado_colisao/BODY_skeleton_parado_colisao.yy",},},
+>>>>>>> 89467d5f5084264922ccace5892e30e6f1e823ae:LostGem/LostGem.yyp
     {"id":{"name":"dragao_estatico","path":"sprites/dragao_estatico/dragao_estatico.yy",},},
     {"id":{"name":"BODY_skeleton_movi_baixo","path":"sprites/BODY_skeleton_movi_baixo/BODY_skeleton_movi_baixo.yy",},},
+    {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},},
     {"id":{"name":"BODY_skeleton_parado_cima","path":"sprites/BODY_skeleton_parado_cima/BODY_skeleton_parado_cima.yy",},},
     {"id":{"name":"Ambiente1_Child_0","path":"rooms/Ambiente1_Child_0/Ambiente1_Child_0.yy",},},
     {"id":{"name":"Floresta1_Child_3","path":"rooms/Floresta1_Child_3/Floresta1_Child_3.yy",},},
     {"id":{"name":"Ambiente1_Child_1","path":"rooms/Ambiente1_Child_1/Ambiente1_Child_1.yy",},},
+<<<<<<< HEAD:LostGem/LostGem/LostGem.yyp
     {"id":{"name":"morcegos","path":"sprites/morcegos/morcegos.yy",},},
     {"id":{"name":"spt_tile_natureza","path":"sprites/spt_tile_natureza/spt_tile_natureza.yy",},},
     {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
     {"id":{"name":"Aldeao3_andano_direita","path":"sprites/Aldeao3_andano_direita/Aldeao3_andano_direita.yy",},},
+=======
+    {"id":{"name":"spt_tile_natureza","path":"sprites/spt_tile_natureza/spt_tile_natureza.yy",},},
+    {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
+    {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
+>>>>>>> 89467d5f5084264922ccace5892e30e6f1e823ae:LostGem/LostGem.yyp
     {"id":{"name":"BODY_skeleton_parado_esquerdo","path":"sprites/BODY_skeleton_parado_esquerdo/BODY_skeleton_parado_esquerdo.yy",},},
     {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},},
     {"id":{"name":"camera","path":"objects/camera/camera.yy",},},
@@ -84,7 +108,11 @@
     {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},},
     {"id":{"name":"dragao_ataque1","path":"sprites/dragao_ataque1/dragao_ataque1.yy",},},
     {"id":{"name":"ft_menu","path":"fonts/ft_menu/ft_menu.yy",},},
+<<<<<<< HEAD:LostGem/LostGem/LostGem.yyp
     {"id":{"name":"rei_vampiro_2forma","path":"sprites/rei_vampiro_2forma/rei_vampiro_2forma.yy",},},
+=======
+    {"id":{"name":"rei_vampiro1_estatico","path":"sprites/rei_vampiro1_estatico/rei_vampiro1_estatico.yy",},},
+>>>>>>> 89467d5f5084264922ccace5892e30e6f1e823ae:LostGem/LostGem.yyp
     {"id":{"name":"ts_natureza","path":"tilesets/ts_natureza/ts_natureza.yy",},},
     {"id":{"name":"dragao_aproximacao","path":"sprites/dragao_aproximacao/dragao_aproximacao.yy",},},
     {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},},
@@ -94,19 +122,28 @@
     {"id":{"name":"ts_natureza2","path":"tilesets/ts_natureza2/ts_natureza2.yy",},},
     {"id":{"name":"Ambiente1","path":"rooms/Ambiente1/Ambiente1.yy",},},
     {"id":{"name":"Floresta1_Child_4","path":"rooms/Floresta1_Child_4/Floresta1_Child_4.yy",},},
+<<<<<<< HEAD:LostGem/LostGem/LostGem.yyp
     {"id":{"name":"Aldeao1","path":"objects/Aldeao1/Aldeao1.yy",},},
     {"id":{"name":"Aldeao1_andano_esquerda","path":"sprites/Aldeao1_andano_esquerda/Aldeao1_andano_esquerda.yy",},},
     {"id":{"name":"personagem_desaparecendo","path":"sprites/personagem_desaparecendo/personagem_desaparecendo.yy",},},
     {"id":{"name":"Rei_vampiro","path":"objects/Rei_vampiro/Rei_vampiro.yy",},},
     {"id":{"name":"BODY_skeleton_parado_direito","path":"sprites/BODY_skeleton_parado_direito/BODY_skeleton_parado_direito.yy",},},
     {"id":{"name":"Aldeao1_andano_direita","path":"sprites/Aldeao1_andano_direita/Aldeao1_andano_direita.yy",},},
+=======
+    {"id":{"name":"personagem_desaparecendo","path":"sprites/personagem_desaparecendo/personagem_desaparecendo.yy",},},
+    {"id":{"name":"BODY_skeleton_parado_direito","path":"sprites/BODY_skeleton_parado_direito/BODY_skeleton_parado_direito.yy",},},
+>>>>>>> 89467d5f5084264922ccace5892e30e6f1e823ae:LostGem/LostGem.yyp
     {"id":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},},
     {"id":{"name":"Lobo_do_castelo","path":"objects/Lobo_do_castelo/Lobo_do_castelo.yy",},},
     {"id":{"name":"Floresta1_Child_2","path":"rooms/Floresta1_Child_2/Floresta1_Child_2.yy",},},
     {"id":{"name":"BODY_skeleton_movi_direita","path":"sprites/BODY_skeleton_movi_direita/BODY_skeleton_movi_direita.yy",},},
     {"id":{"name":"monstro_do_castelo_voando","path":"sprites/monstro_do_castelo_voando/monstro_do_castelo_voando.yy",},},
+<<<<<<< HEAD:LostGem/LostGem/LostGem.yyp
     {"id":{"name":"rei_vampiro_estatico","path":"sprites/rei_vampiro_estatico/rei_vampiro_estatico.yy",},},
     {"id":{"name":"Lobo_do_castelo_ataque1","path":"sprites/Lobo_do_castelo_ataque1/Lobo_do_castelo_ataque1.yy",},},
+=======
+    {"id":{"name":"rei_vampiro_2Fase","path":"sprites/rei_vampiro_2Fase/rei_vampiro_2Fase.yy",},},
+>>>>>>> 89467d5f5084264922ccace5892e30e6f1e823ae:LostGem/LostGem.yyp
     {"id":{"name":"spr_parede","path":"sprites/spr_parede/spr_parede.yy",},},
   ],
   "RoomOrderNodes": [
