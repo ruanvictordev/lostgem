@@ -96,7 +96,6 @@
     {"id":{"name":"Floresta1_Child_4","path":"rooms/Floresta1_Child_4/Floresta1_Child_4.yy",},},
     {"id":{"name":"personagem_desaparecendo","path":"sprites/personagem_desaparecendo/personagem_desaparecendo.yy",},},
     {"id":{"name":"BODY_skeleton_parado_direito","path":"sprites/BODY_skeleton_parado_direito/BODY_skeleton_parado_direito.yy",},},
-    {"id":{"name":"TileSet6","path":"tilesets/TileSet6/TileSet6.yy",},},
     {"id":{"name":"Castelo_Inicio","path":"rooms/Castelo_Inicio/Castelo_Inicio.yy",},},
     {"id":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},},
     {"id":{"name":"obj_monstro2","path":"objects/obj_monstro2/obj_monstro2.yy",},},

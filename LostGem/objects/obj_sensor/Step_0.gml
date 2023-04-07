@@ -7,4 +7,4 @@ if (place_meeting(x, y, obj_personagem) && ativo == true){
 	t.xx = xx;
 	t.yy = yy;
 	ativo = false;
-}
+  }

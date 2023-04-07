@@ -12,7 +12,6 @@
     {"name":"Sprite05","order":2,"path":"sprites/Sprite05/Sprite05.yy",},
     {"name":"Ambiente1_Child_1","order":2,"path":"rooms/Ambiente1_Child_1/Ambiente1_Child_1.yy",},
     {"name":"Sprite1516","order":3,"path":"sprites/Sprite1516/Sprite1516.yy",},
-    {"name":"TileSet6","order":5,"path":"tilesets/TileSet6/TileSet6.yy",},
     {"name":"Castelo_Inicio","order":1,"path":"rooms/Castelo_Inicio/Castelo_Inicio.yy",},
     {"name":"obj_monstro2","order":1,"path":"objects/obj_monstro2/obj_monstro2.yy",},
   ],
