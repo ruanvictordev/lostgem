@@ -4,12 +4,16 @@
   ],
   "ResourceOrderSettings": [
     {"name":"personagem_misterioso","order":4,"path":"sprites/personagem_misterioso/personagem_misterioso.yy",},
+    {"name":"Castelo_Ponte1","order":2,"path":"rooms/Castelo_Ponte1/Castelo_Ponte1.yy",},
+    {"name":"Castelo_Entrada","order":4,"path":"rooms/Castelo_Entrada/Castelo_Entrada.yy",},
     {"name":"Sprite18","order":1,"path":"sprites/Sprite18/Sprite18.yy",},
     {"name":"Interior_Casa","order":1,"path":"rooms/Interior_Casa/Interior_Casa.yy",},
+    {"name":"Castelo_Ponte3","order":3,"path":"rooms/Castelo_Ponte3/Castelo_Ponte3.yy",},
     {"name":"Sprite05","order":2,"path":"sprites/Sprite05/Sprite05.yy",},
     {"name":"Ambiente1_Child_1","order":2,"path":"rooms/Ambiente1_Child_1/Ambiente1_Child_1.yy",},
     {"name":"Sprite1516","order":3,"path":"sprites/Sprite1516/Sprite1516.yy",},
-    {"name":"Castelo_Ponte","order":1,"path":"rooms/Castelo_Ponte/Castelo_Ponte.yy",},
+    {"name":"TileSet6","order":5,"path":"tilesets/TileSet6/TileSet6.yy",},
+    {"name":"Castelo_Inicio","order":1,"path":"rooms/Castelo_Inicio/Castelo_Inicio.yy",},
     {"name":"obj_monstro2","order":1,"path":"objects/obj_monstro2/obj_monstro2.yy",},
   ],
 }
