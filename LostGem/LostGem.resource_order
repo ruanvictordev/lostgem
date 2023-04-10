@@ -1,4 +1,11 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Guerreiro_ataque1","order":5,"path":"sprites/Guerreiro_ataque1/Guerreiro_ataque1.yy",},
+    {"name":"Guerreiro_movi_direita","order":3,"path":"sprites/Guerreiro_movi_direita/Guerreiro_movi_direita.yy",},
+    {"name":"Guerreiro_movi_baixo","order":1,"path":"sprites/Guerreiro_movi_baixo/Guerreiro_movi_baixo.yy",},
+    {"name":"Sprite50","order":6,"path":"sprites/Sprite50/Sprite50.yy",},
+    {"name":"Guerreiro_movi_esquerda","order":2,"path":"sprites/Guerreiro_movi_esquerda/Guerreiro_movi_esquerda.yy",},
+    {"name":"guerreiro_movi_cima","order":4,"path":"sprites/guerreiro_movi_cima/guerreiro_movi_cima.yy",},
+  ],
 }
