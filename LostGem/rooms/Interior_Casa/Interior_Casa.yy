@@ -2,8 +2,8 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "Interior_Casa",
-  "creationCodeFile": "${project_dir}/rooms/Ambiente1/RoomCreationCode.gml",
-  "inheritCode": true,
+  "creationCodeFile": "${project_dir}/rooms/Interior_Casa/RoomCreationCode.gml",
+  "inheritCode": false,
   "inheritCreationOrder": true,
   "inheritLayers": false,
   "instanceCreationOrder": [
@@ -11,8 +11,9 @@
     {"name":"inst_623124EA","path":"rooms/Interior_Casa/Interior_Casa.yy",},
     {"name":"inst_52722AF2","path":"rooms/Interior_Casa/Interior_Casa.yy",},
     {"name":"inst_2D9DFEDD","path":"rooms/Interior_Casa/Interior_Casa.yy",},
-    {"name":"inst_216E15B2","path":"rooms/Interior_Casa/Interior_Casa.yy",},
     {"name":"inst_674F9B0F","path":"rooms/Interior_Casa/Interior_Casa.yy",},
+    {"name":"inst_7C2EE706","path":"rooms/Interior_Casa/Interior_Casa.yy",},
+    {"name":"inst_7FFDD300","path":"rooms/Interior_Casa/Interior_Casa.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -22,12 +23,13 @@
 -570,0,],"TileDataFormat":1,},"tilesetId":{"name":"ts_natureza","path":"tilesets/ts_natureza/ts_natureza.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"colisao","depth":100,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":false,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_223706BC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_223706BC","path":"rooms/Vila/Vila.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":16.25,"x":-16.0,"y":220.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_623124EA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_623124EA","path":"rooms/Vila/Vila.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"rotation":0.0,"scaleX":23.5,"scaleY":1.0,"x":376.0,"y":472.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_623124EA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_623124EA","path":"rooms/Vila/Vila.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"rotation":0.0,"scaleX":12.5,"scaleY":1.0,"x":552.0,"y":472.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_52722AF2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_52722AF2","path":"rooms/Vila/Vila.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":2.5,"x":736.0,"y":16.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2D9DFEDD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_2D9DFEDD","path":"rooms/Vila/Vila.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"rotation":0.0,"scaleX":22.5,"scaleY":1.0,"x":360.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7C2EE706","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"rotation":0.0,"scaleX":8.0,"scaleY":1.0,"x":128.0,"y":472.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7FFDD300","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":1.0,"x":304.0,"y":472.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"personagem","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":false,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_216E15B2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_216E15B2","path":"rooms/Vila/Vila.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":160.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_674F9B0F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_674F9B0F","path":"rooms/Vila/Vila.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"camera","path":"objects/camera/camera.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":64.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"t_objetovila2","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":29,"SerialiseWidth":45,"TileCompressedData":[
@@ -63,8 +65,8 @@
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4278190080,"depth":1100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":false,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "parent": {
-    "name": "Pratica",
-    "path": "folders/Ambientes/Pratica.yy",
+    "name": "VilaTeste",
+    "path": "folders/Ambientes/VilaTeste.yy",
   },
   "parentRoom": {
     "name": "Vila",
@@ -79,7 +81,7 @@
   },
   "roomSettings": {
     "Height": 450,
-    "inheritRoomSettings": true,
+    "inheritRoomSettings": false,
     "persistent": false,
     "Width": 720,
   },
