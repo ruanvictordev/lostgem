@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "Ambiente1_Child_1",
-  "creationCodeFile": "${project_dir}/rooms/Ambiente1/RoomCreationCode.gml",
+  "creationCodeFile": "${project_dir}/rooms/Vila/RoomCreationCode.gml",
   "inheritCode": true,
   "inheritCreationOrder": true,
   "inheritLayers": false,
