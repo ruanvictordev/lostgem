@@ -27,8 +27,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "npcs",
-    "path": "folders/Sprites/npcs.yy",
+    "name": "aldeoes",
+    "path": "folders/Sprites/npcs/aldeoes.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

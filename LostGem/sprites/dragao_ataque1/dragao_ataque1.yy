@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "inimigos",
-    "path": "folders/Sprites/inimigos.yy",
+    "name": "boss",
+    "path": "folders/Sprites/inimigos/boss.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
