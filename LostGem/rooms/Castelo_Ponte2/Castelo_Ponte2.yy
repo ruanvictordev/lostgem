@@ -9,9 +9,10 @@
   "instanceCreationOrder": [
     {"name":"inst_26184396","path":"rooms/Castelo_Ponte2/Castelo_Ponte2.yy",},
     {"name":"inst_531935BC","path":"rooms/Castelo_Ponte2/Castelo_Ponte2.yy",},
-    {"name":"inst_177C9331","path":"rooms/Castelo_Ponte2/Castelo_Ponte2.yy",},
-    {"name":"inst_1AD021ED","path":"rooms/Castelo_Ponte2/Castelo_Ponte2.yy",},
     {"name":"inst_57787D16","path":"rooms/Castelo_Ponte2/Castelo_Ponte2.yy",},
+    {"name":"inst_55AB1410","path":"rooms/Castelo_Ponte2/Castelo_Ponte2.yy",},
+    {"name":"inst_5BB3068A","path":"rooms/Castelo_Ponte2/Castelo_Ponte2.yy",},
+    {"name":"inst_31D86191","path":"rooms/Castelo_Ponte2/Castelo_Ponte2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -21,8 +22,9 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_26184396","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":15.0,"x":416.0,"y":224.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_531935BC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":15.0,"x":320.0,"y":224.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_177C9331","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},"properties":[],"rotation":0.0,"scaleX":4.0,"scaleY":1.0,"x":368.0,"y":448.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1AD021ED","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},"properties":[],"rotation":0.0,"scaleX":4.0,"scaleY":1.0,"x":368.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_55AB1410","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},"properties":[],"rotation":0.0,"scaleX":3.5,"scaleY":1.0,"x":384.0,"y":448.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5BB3068A","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},"properties":[],"rotation":0.0,"scaleX":3.25,"scaleY":1.0,"x":384.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_31D86191","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":320.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Ponte","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":29,"SerialiseWidth":45,"TileCompressedData":[
 -20,-2147483648,6,1316,1413,1414,1415,1416,1321,-39,-2147483648,6,1348,1317,1318,1319,1320,1353,-39,-2147483648,6,1380,1349,1350,1351,1352,1385,-39,-2147483648,6,1412,1381,1382,1383,1384,1417,-39,-2147483648,6,1444,1413,1414,1415,1416,1449,
