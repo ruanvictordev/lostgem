@@ -4,7 +4,7 @@ if (!instance_exists(obj_batalha)){
 
 // Definindo inimigos
 global.inimigos = [obj_monstro, obj_monstro2];
-global.qtdinimigos = 2;
+global.qtdinimigos = 1;
 
 if(room = Floresta1_Batalha){
 	room_goto_next()
