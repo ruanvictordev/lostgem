@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "dragao",
-    "path": "sprites/dragao/dragao.yy",
+    "name": "dragao_estatico",
+    "path": "sprites/dragao_estatico/dragao_estatico.yy",
   },
   "spriteMaskId": null,
   "visible": true,
