@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "boneco",
-    "path": "sprites/boneco/boneco.yy",
+    "name": "Sprite18",
+    "path": "sprites/Sprite18/Sprite18.yy",
   },
   "spriteMaskId": null,
   "visible": true,
