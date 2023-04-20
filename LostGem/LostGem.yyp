@@ -38,7 +38,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.0.71",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
     {"id":{"name":"Obj_dragao","path":"objects/Obj_dragao/Obj_dragao.yy",},},
@@ -104,6 +104,7 @@
     {"id":{"name":"aldeao2_andano_esquerda","path":"sprites/aldeao2_andano_esquerda/aldeao2_andano_esquerda.yy",},},
     {"id":{"name":"spr_sensor","path":"sprites/spr_sensor/spr_sensor.yy",},},
     {"id":{"name":"Castelo_Child_1","path":"rooms/Castelo_Child_1/Castelo_Child_1.yy",},},
+    {"id":{"name":"Castelo_Child_2","path":"rooms/Castelo_Child_2/Castelo_Child_2.yy",},},
     {"id":{"name":"obj_transicao","path":"objects/obj_transicao/obj_transicao.yy",},},
     {"id":{"name":"guerreiro_movi_cima","path":"sprites/guerreiro_movi_cima/guerreiro_movi_cima.yy",},},
     {"id":{"name":"monstro_bola_ataque","path":"sprites/monstro_bola_ataque/monstro_bola_ataque.yy",},},
@@ -141,6 +142,7 @@
     {"roomId":{"name":"Ambiente1_Child_1","path":"rooms/Ambiente1_Child_1/Ambiente1_Child_1.yy",},},
     {"roomId":{"name":"Castelo_Child_0","path":"rooms/Castelo_Child_0/Castelo_Child_0.yy",},},
     {"roomId":{"name":"Castelo_Child_1","path":"rooms/Castelo_Child_1/Castelo_Child_1.yy",},},
+    {"roomId":{"name":"Castelo_Child_2","path":"rooms/Castelo_Child_2/Castelo_Child_2.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
