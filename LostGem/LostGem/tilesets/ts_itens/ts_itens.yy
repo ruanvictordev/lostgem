@@ -15,7 +15,10 @@
     "name": "Conjuntos de tiles",
     "path": "folders/Conjuntos de tiles.yy",
   },
-  "spriteId": null,
+  "spriteId": {
+    "name": "spt_tile_itens",
+    "path": "sprites/spt_tile_itens/spt_tile_itens.yy",
+  },
   "spriteNoExport": true,
   "textureGroupId": {
     "name": "Default",
