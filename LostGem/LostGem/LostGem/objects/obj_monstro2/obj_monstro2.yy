@@ -30,7 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "morcegos",
+    "path": "sprites/morcegos/morcegos.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
