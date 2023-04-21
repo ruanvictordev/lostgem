@@ -1,10 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-
-
 // desenhando o player
 draw_self()
 
