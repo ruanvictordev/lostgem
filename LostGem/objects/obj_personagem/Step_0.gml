@@ -85,23 +85,27 @@ if(ativo == true && global.batalha == false){
 	else {
 		switch mov{
 			default:
-			sprite_index = BODY_skeleton_movi_direita
+			sprite_index = BODY_skeleton_movi_direita;
 			break;
 		
 			case 1:
-			sprite_index = BODY_skeleton_movi_cima
+			sprite_index = BODY_skeleton_movi_cima;
 			break;
 		
 			case 2:
-			sprite_index = BODY_skeleton_movi_esquerda
+			sprite_index = BODY_skeleton_movi_esquerda;
 			break;
 		
 			case 3:
-			sprite_index = BODY_skeleton_movi_baixo
+			sprite_index = BODY_skeleton_movi_baixo;
 			break;
 		
 		}
 
+	}
+	
+	if(defendendo == true){
+		sprite_index = BODY_skeleton_defendendo;
 	}
 	
 	#endregion

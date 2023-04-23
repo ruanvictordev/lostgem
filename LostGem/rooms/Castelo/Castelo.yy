@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "Castelo",
-  "creationCodeFile": "${project_dir}/rooms/Floresta1/RoomCreationCode.gml",
+  "creationCodeFile": "${project_dir}/rooms/Castelo/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
