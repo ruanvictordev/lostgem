@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "BODY_skeleton_parado_baixo",
-    "path": "sprites/BODY_skeleton_parado_baixo/BODY_skeleton_parado_baixo.yy",
+    "name": "spr_cavaleiro_parado_baixo",
+    "path": "sprites/spr_cavaleiro_parado_baixo/spr_cavaleiro_parado_baixo.yy",
   },
   "spriteMaskId": {
     "name": "BODY_skeleton_parado_colisao",

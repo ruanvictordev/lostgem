@@ -10,4 +10,4 @@ alpha = 0;
 direcao = 0;
 
 cor = c_black;
-vel = 0.09;
+vel = 0.15;

@@ -66,48 +66,44 @@ if(ativo == true && global.batalha == false){
 	if (hveloc == 0 and vveloc == 0){
 		switch dir{
 			default:
-			sprite_index = BODY_skeleton_parado_direito;
+			sprite_index = spr_cavaleiro_parado_direita;
 			break;
 		
 			case 1:
-			sprite_index = BODY_skeleton_parado_cima;
+			sprite_index = spr_cavaleiro_parado_cima;
 			break;
 		
 			case 2:
-			sprite_index = BODY_skeleton_parado_esquerdo;
+			sprite_index = spr_cavaleiro_parado_esquerda;
 			break;
 		
 			case 3:
-			sprite_index = BODY_skeleton_parado_baixo;
+			sprite_index = spr_cavaleiro_parado_baixo;
 			break;
 		}
 	} 
 	else {
 		switch mov{
 			default:
-			sprite_index = BODY_skeleton_movi_direita;
+			sprite_index = spr_cavaleiro_andando_direita;
 			break;
 		
 			case 1:
-			sprite_index = BODY_skeleton_movi_cima;
+			sprite_index = spr_cavaleiro_andando_cima;
 			break;
 		
 			case 2:
-			sprite_index = BODY_skeleton_movi_esquerda;
+			sprite_index = spr_cavaleiro_andando_esquerda;
 			break;
 		
 			case 3:
-			sprite_index = BODY_skeleton_movi_baixo;
+			sprite_index = spr_cavaleiro_andando_baixo;
 			break;
 		
 		}
 
 	}
-	
-	if(defendendo == true){
-		sprite_index = BODY_skeleton_defendendo;
-	}
-	
+		
 	#endregion
 	
 	

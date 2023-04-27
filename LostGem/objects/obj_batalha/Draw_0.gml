@@ -9,7 +9,7 @@ if (room == Floresta1_Batalha){
 	
 	
 	//Desenho Caixa Menu
-	draw_rectangle_color(0, room_height, room_width, room_height-60, c_teal, c_teal, c_teal, c_teal, false);
+	draw_rectangle_color(0, room_height, room_width, room_height-60, c_blue, c_blue, c_blue, c_blue, false);
 	draw_rectangle_color(0, room_height, room_width, room_height-60, c_black, c_black,  c_black,  c_black,true);
 
 
@@ -33,13 +33,13 @@ if (room == Floresta1_Batalha){
 		draw_set_halign(fa_center);
 	
 		//Atacar
-		draw_text_color(100, room_height -35, "Atacar", c_black, c_orange, c_yellow, c_red, 1);
+		draw_text_color(100, room_height -35, "Atacar", c_orange, c_orange, c_yellow, c_yellow, 1);
 	
 		//Defender
-		draw_text_color(250, room_height -35, "Defender", c_black, c_orange, c_yellow, c_red, 1);
+		draw_text_color(250, room_height -35, "Defender", c_orange, c_orange, c_yellow, c_yellow, 1);
 	
 		//Fugir
-		draw_text_color(400, room_height -35, "Fugir", c_black, c_orange, c_yellow, c_red, 1);
+		draw_text_color(400, room_height -35, "Fugir", c_orange, c_orange, c_yellow, c_yellow, 1);
 	
 		if (keyboard_check_pressed(vk_left)) posicao --;
 		if (keyboard_check_pressed(vk_right)) posicao ++;
@@ -56,7 +56,7 @@ if (room == Floresta1_Batalha){
 				if(heroi_atual.defendendo == true){
 					heroi_atual.def /=2;
 					heroi_atual.defendendo = false;
-					heroi_atual.sprite_index = BODY_skeleton_parado_direito;
+					heroi_atual.sprite_index = spr_cavaleiro_parado_direita;
 				}
 				momento++;
 				break;
@@ -66,7 +66,7 @@ if (room == Floresta1_Batalha){
 				heroi_atual.def *= 2;
 				heroi_atual.defendendo = true;
 				heroi_atual.energia = 0;
-				heroi_atual.sprite_index = BODY_skeleton_defendendo;
+				heroi_atual.sprite_index = spr_cavaleiro_parado_baixo;
 				break;
 				
 				case 2:
@@ -83,10 +83,9 @@ if (room == Floresta1_Batalha){
 		scr_inimigo_batalha(global.inimigo_batalha);
 	
 		if(select){
+			heroi_atual.sprite_index = spr_cavaleiro_ataque;
 			momento = 0;
 			heroi_atual.energia = 0;
-			
-			
 			inimigo_atual = ds_list_find_value(global.inimigo_batalha, posicao_i);
 			
 			//causando dano

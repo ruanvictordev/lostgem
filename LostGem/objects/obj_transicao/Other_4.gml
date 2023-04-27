@@ -7,7 +7,7 @@ obj_personagem.y = yy;
 // entrar em batalha
 if (room == Floresta1_Batalha){
 	with(obj_personagem){
-		sprite_index = BODY_skeleton_parado_direito;
+		sprite_index = spr_cavaleiro_parado_direita;
 		image_index = 0;
 		alarm[0] = 5;
 		
