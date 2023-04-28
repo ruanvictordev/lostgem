@@ -1,5 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
+audio_play_sound(FundoJogo,1 , true);
+
 right = -1;
 left = -1;
 up = -1;

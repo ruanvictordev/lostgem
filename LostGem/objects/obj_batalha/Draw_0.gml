@@ -66,7 +66,7 @@ if (room == Floresta1_Batalha){
 				heroi_atual.def *= 2;
 				heroi_atual.defendendo = true;
 				heroi_atual.energia = 0;
-				heroi_atual.sprite_index = spr_cavaleiro_parado_baixo;
+				heroi_atual.sprite_index = spr_cavaleiro_defesa;
 				break;
 				
 				case 2:
@@ -86,6 +86,7 @@ if (room == Floresta1_Batalha){
 			heroi_atual.sprite_index = spr_cavaleiro_ataque;
 			momento = 0;
 			heroi_atual.energia = 0;
+			
 			inimigo_atual = ds_list_find_value(global.inimigo_batalha, posicao_i);
 			
 			//causando dano
