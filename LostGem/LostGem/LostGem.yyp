@@ -31,15 +31,15 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"inimigos","folderPath":"folders/Sprites/inimigos.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"mapas","folderPath":"folders/Sprites/mapas.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"mortes","folderPath":"folders/Sprites/mortes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"npcs","folderPath":"folders/Sprites/npcs.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"player","folderPath":"folders/Sprites/player.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"mortes","folderPath":"folders/Sprites/mortes.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.0.71",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
     {"id":{"name":"Obj_dragao","path":"objects/Obj_dragao/Obj_dragao.yy",},},

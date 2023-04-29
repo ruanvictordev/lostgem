@@ -30,10 +30,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "aldeao1_andano_esquerda",
-    "path": "sprites/aldeao1_andano_esquerda/aldeao1_andano_esquerda.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
