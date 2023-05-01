@@ -105,8 +105,7 @@ if(ativo == true && global.batalha == false){
 	}
 		
 	#endregion
-	
-	
+		
 	#region //direcao com o teclado
 	/*
 	dir = floor((point_direction(left, up, right, down ) + 45)/90);
@@ -151,6 +150,7 @@ if(ativo == true && global.batalha == false){
 	}
 	*/
 	#endregion
+
 }
 else {
 }

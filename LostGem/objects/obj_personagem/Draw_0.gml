@@ -17,15 +17,26 @@ if (room == Floresta1_Batalha){
 	// desenhando barra de energia
 	draw_healthbar(xx - 20, yy - 20, xx + sprite_width + 20, yy - 20, energia , c_dkgray, c_blue, c_aqua, 0, true, true)
 
-	if(energia < max_energia){ 
-		energia += agi/4; 
-	}
-	if (energia <= 0){
-		atq = 0;
-	}
-	else if (energia >0){
-		atq = 5;
-	}
 
+	// configurando os estados
+	if(estado == "normal"){
+		sprite_index = sprite_luta
+		energia += agi/4;
+		if (energia > max_energia) energia = max_energia;
+	}
+	else if (estado == "ataque"){
+		energia = 0;
+		sprite_index = sprite_ataque;
+		
+		var n_img = image_number - 1;
+		if (image_index >= n_img){
+			inimigo_atual.hp -= max(0, (atq - inimigo_atual.def));
+			inimigo_atual.dano = true;
+			inimigo_atual.alarm[1] = room_speed;
+			estado = "normal";
+		}
+	}
+	if (defendendo ==true) sprite_index = sprite_defesa;
+	
 	//draw_text(10,10, energia)
 }

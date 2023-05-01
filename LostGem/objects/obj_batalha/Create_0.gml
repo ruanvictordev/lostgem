@@ -15,6 +15,7 @@ posicao = 0; //posicao da ação
 momento= 0 //momento da batalha
 heroi_atual = 0;
 inimigo_atual = 0;
+inimigo_ataque = 0;
 
 origem = 0;
 origemx = 0;

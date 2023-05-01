@@ -1,6 +1,8 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
+// efeito de dano
+
 if(dano){
 	if (sumir) image_alpha -= .2;
 	if (!sumir) image_alpha += .3;
@@ -9,6 +11,3 @@ if(dano){
 }
 
 
-//morrendo
-
-if(hp <=0) instance_destroy();

@@ -4,13 +4,20 @@
 //Atributos
 max_hp = 10;
 hp = max_hp;
-atq = 3;
+atq = 10;
 def = 1;
 agi = 1;
 
 dano = false;
 sumir = false;
 
+estado = "normal";
+heroi_alvo = 0;
+
+sprite_normal = planta_da_floresta;
+sprite_ataque = spr_planta_floresta_taque;
+
+defendendo = false;
 
 max_energia = 100;
 energia = irandom(max_energia);
@@ -18,3 +25,5 @@ xp = 2;
 
 //posicao na lista
 numeroz = 0;
+
+morrer = false;
