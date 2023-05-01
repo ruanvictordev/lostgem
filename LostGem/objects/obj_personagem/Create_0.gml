@@ -16,12 +16,21 @@ dir = 0;
 ativo = true;
 movendo = false;
 
+sprite_luta = spr_cavaleiro_parado_direita;
+sprite_ataque = spr_cavaleiro_ataque;
+sprite_defesa = spr_cavaleiro_defesa;
+
+inimigo_atual = noone;
+
+estado = "normal";
+
 //Atributos
 max_hp = 100;
 hp = max_hp;
 max_sp = 20;
 sp = max_sp;
-atq = 10;
+max_atq = 5;
+atq = max_atq;
 defendendo = false;
 def = 4;
 agi = 2;

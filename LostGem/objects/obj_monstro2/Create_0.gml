@@ -5,6 +5,10 @@ event_inherited();
 xp = 8;
 max_hp = 8;
 hp = max_hp;
+atq = 15;
 def = 1;
 agi = 1;
 energia = 0;
+
+sprite_normal = morcegos;
+sprite_ataque = morcegos;

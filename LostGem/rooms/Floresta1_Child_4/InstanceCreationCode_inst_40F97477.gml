@@ -1,3 +1,3 @@
-destino = Castelo_Inicio;
+destino = Castelo;
 xx = 377;
 yy = 398;

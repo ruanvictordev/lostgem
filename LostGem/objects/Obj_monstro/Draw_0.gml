@@ -19,5 +19,52 @@ if (room == Floresta1_Batalha){
 	if(energia < max_energia){ 
 		energia += agi/6; 
 	}
+	//lutando
+	if(!morrer){
+		if(estado == "normal"){
+			sprite_index = sprite_normal;
+			energia += agi/6;
+			if(energia >= max_energia){
+				energia = max_energia
+				var n_heroi = irandom(ds_list_size(global.heroi_batalha)-1);
+				heroi_alvo = ds_list_find_value(global.heroi_batalha, n_heroi);
 	
+				if(obj_batalha.inimigo_ataque == 0 && obj_batalha.heroi_atual == 0 && !dano){
+					obj_batalha.inimigo_ataque = self;
+					estado = choose("ataque", "ataque", "defesa");
+					energia = 0;
+
+				}
+			}
+		}
+		else if(estado == "ataque"){
+			sprite_index = sprite_ataque;
+			image_speed = 1;
+			if (defendendo){
+				defendendo = false;
+				def /=2;
+				image_blend = c_white;
+			}
+			if(image_index >= image_number -1){
+				heroi_alvo.hp -= max(0, (atq -heroi_alvo.def));
+				obj_batalha.inimigo_ataque = 0;
+				estado = "normal";
+			}
+		}
+		else if(estado == "defesa"){
+			if(!defendendo){
+				def *= 2;
+				image_blend = c_blue;
+				defendendo = true;
+			}
+			obj_batalha.inimigo_ataque = 0;
+			estado = "normal";
+		}
+	
+	}
+	else{
+		if(image_alpha >0) image_alpha -= .03;
+		if(image_alpha <=0) instance_destroy();
+		
+	}
 }

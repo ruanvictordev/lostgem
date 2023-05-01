@@ -5,8 +5,10 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -30,7 +32,14 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
+<<<<<<< HEAD:LostGem/objects/Obj_monstro/Obj_monstro.yy
+  "spriteId": {
+    "name": "planta_da_floresta",
+    "path": "sprites/planta_da_floresta/planta_da_floresta.yy",
+  },
+=======
   "spriteId": null,
+>>>>>>> 17b1234997d762bda33488a0961259c9dc96704e:LostGem/LostGem/LostGem/objects/Obj_monstro/obj_monstro.yy
   "spriteMaskId": null,
   "visible": true,
 }

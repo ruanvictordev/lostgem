@@ -20,7 +20,7 @@ if (room == Floresta1_Batalha){
 		//movendo pela posição dos herois
 		src_heroi_batalha(global.heroi_batalha);
 	
-		if(select && ds_list_find_value(global.heroi_batalha, posicao_h).energia == ds_list_find_value(global.heroi_batalha, posicao_h).max_energia)
+		if(select && ds_list_find_value(global.heroi_batalha, posicao_h).energia == ds_list_find_value(global.heroi_batalha, posicao_h).max_energia && heroi_atual == 0)
 		{
 			momento++
 			heroi_atual = ds_list_find_value(global.heroi_batalha, posicao_h);
@@ -56,7 +56,7 @@ if (room == Floresta1_Batalha){
 				if(heroi_atual.defendendo == true){
 					heroi_atual.def /=2;
 					heroi_atual.defendendo = false;
-					heroi_atual.sprite_index = spr_cavaleiro_parado_direita;
+					heroi_atual.estado = "normal";
 				}
 				momento++;
 				break;
@@ -66,11 +66,14 @@ if (room == Floresta1_Batalha){
 				heroi_atual.def *= 2;
 				heroi_atual.defendendo = true;
 				heroi_atual.energia = 0;
-				heroi_atual.sprite_index = spr_cavaleiro_defesa;
+				heroi_atual = 0;
 				break;
 				
 				case 2:
 				global.batalha = false;
+				momento = 0;
+				heroi_atual.estado = "normal";
+				heroi_atual = 0;
 				
 			}
 			
@@ -83,19 +86,15 @@ if (room == Floresta1_Batalha){
 		scr_inimigo_batalha(global.inimigo_batalha);
 	
 		if(select){
-			heroi_atual.sprite_index = spr_cavaleiro_ataque;
-			momento = 0;
-			heroi_atual.energia = 0;
 			
 			inimigo_atual = ds_list_find_value(global.inimigo_batalha, posicao_i);
+			heroi_atual.inimigo_atual = inimigo_atual;
 			
-			//causando dano
-			inimigo_atual.hp -= (heroi_atual.atq - inimigo_atual.def);
+			// Alterando o estado do heroi_atual
+			heroi_atual.estado = "ataque";
 			
+			momento = 0;
 			heroi_atual = 0;
-			
-			inimigo_atual.dano = true;
-			inimigo_atual.alarm[1] = room_speed;
 			
 		}
 		if(dselect) momento--;

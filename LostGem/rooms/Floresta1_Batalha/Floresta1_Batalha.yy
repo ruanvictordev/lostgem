@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "Floresta1_Batalha",
-  "creationCodeFile": "${project_dir}/rooms/Floresta1/RoomCreationCode.gml",
+  "creationCodeFile": "${project_dir}/rooms/Floresta1_Batalha/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": true,
   "inheritLayers": false,
