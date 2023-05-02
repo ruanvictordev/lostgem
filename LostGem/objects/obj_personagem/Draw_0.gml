@@ -36,7 +36,14 @@ if (room == Floresta1_Batalha){
 			estado = "normal";
 		}
 	}
+	if (hp < 0){
+		global.batalha = !global.batalha;
+		hp = max_hp;
+	}
+	
 	if (defendendo ==true) sprite_index = sprite_defesa;
+	
+	
 	
 	//draw_text(10,10, energia)
 }
