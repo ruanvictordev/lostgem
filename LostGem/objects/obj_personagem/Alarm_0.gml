@@ -3,4 +3,4 @@
 
 ds_list_add(global.heroi_batalha, self);
 
-//show_debug_message("Fui criado, meu id heroi e: " + string(self));
+show_debug_message("Fui criado, meu id heroi e: " + string(self));

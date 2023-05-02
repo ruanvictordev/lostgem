@@ -12,7 +12,6 @@ if (room == Floresta1_Batalha){
 		alarm[0] = 5;
 		
 	}
-	
 	// inimigo
 	if (global.inimigos != 0){
 		
