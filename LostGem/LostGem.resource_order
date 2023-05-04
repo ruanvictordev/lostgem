@@ -21,6 +21,7 @@
     {"name":"npcs","order":4,"path":"folders/Sprites/npcs.yy",},
     {"name":"player","order":5,"path":"folders/Sprites/player.yy",},
     {"name":"teste_cavaleiro","order":6,"path":"folders/Sprites/teste_cavaleiro.yy",},
+    {"name":"grupo1","order":11,"path":"folders/Sprites/grupo1.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Guerreiro_ataque1","order":5,"path":"sprites/Guerreiro_ataque1/Guerreiro_ataque1.yy",},
@@ -43,6 +44,7 @@
     {"name":"lobo_negro_estatico","order":13,"path":"sprites/lobo_negro_estatico/lobo_negro_estatico.yy",},
     {"name":"spr_modelo_cavaleiro_parado","order":12,"path":"sprites/spr_modelo_cavaleiro_parado/spr_modelo_cavaleiro_parado.yy",},
     {"name":"obj_monstro_planta","order":5,"path":"objects/obj_monstro_planta/obj_monstro_planta.yy",},
+    {"name":"JoiaLostGem_giro","order":2,"path":"sprites/JoiaLostGem_giro/JoiaLostGem_giro.yy",},
     {"name":"spr_modelo_cavaleiro_andando","order":6,"path":"sprites/spr_modelo_cavaleiro_andando/spr_modelo_cavaleiro_andando.yy",},
     {"name":"spr_cavaleiro_parado_baixo","order":15,"path":"sprites/spr_cavaleiro_parado_baixo/spr_cavaleiro_parado_baixo.yy",},
     {"name":"dragao_estatico","order":14,"path":"sprites/dragao_estatico/dragao_estatico.yy",},
@@ -59,6 +61,7 @@
     {"name":"spr_cavaleiro_andando_esquerda","order":10,"path":"sprites/spr_cavaleiro_andando_esquerda/spr_cavaleiro_andando_esquerda.yy",},
     {"name":"spr_lobo","order":10,"path":"sprites/spr_lobo/spr_lobo.yy",},
     {"name":"spr_teste_cavaleiro_ataque","order":19,"path":"sprites/spr_teste_cavaleiro_ataque/spr_teste_cavaleiro_ataque.yy",},
+    {"name":"JoiaLostGem","order":1,"path":"sprites/JoiaLostGem/JoiaLostGem.yy",},
     {"name":"tela_game_over","order":4,"path":"rooms/tela_game_over/tela_game_over.yy",},
     {"name":"spr_cavaleiro_ataque","order":17,"path":"sprites/spr_cavaleiro_ataque/spr_cavaleiro_ataque.yy",},
     {"name":"Sprite50","order":6,"path":"sprites/Sprite50/Sprite50.yy",},
