@@ -37,7 +37,7 @@ if (room == Floresta1_Batalha){
 	
 	// está na batalha
 	// chequando se a inimigo na batalha
-	if (!instance_exists(obj_monstro)){
+	if (!instance_exists(obj_monstro_planta)){
 		global.batalha = false;
 	}
 }

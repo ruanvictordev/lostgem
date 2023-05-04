@@ -37,11 +37,13 @@ if (room == Floresta1_Batalha){
 		}
 	}
 	if (hp < 0){
-		global.batalha = !global.batalha;
-		hp = max_hp;
+		instance_destroy();
+		room_goto(tela_game_over);
 	}
 	
-	if (defendendo ==true) sprite_index = sprite_defesa;
+	if (defendendo ==true){ 
+		sprite_index = sprite_defesa;
+	}
 	
 	
 	
