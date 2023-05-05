@@ -54,8 +54,39 @@ So get ready for the adventure of a lifetime with LostGem, where you'll guide yo
 ```
 
 ## 👨‍💻 Autors
-
-- [Bruno Lima](https://github.com/brunolimapinheiro)
-- [João Carlos](https://github.com/OMaskara310)
-- [Jociel Andrade](https://github.com/JociS4)
-- [Ruan Victor](https://github.com/ruanvcg)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/OMaskara310">
+        <img src="https://avatars.githubusercontent.com/u/107417702?v=4" width="100px;" alt="Foto do João Carlos no GitHub"/><br>
+        <sub>
+          <b>João Carlos</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JociS4">
+        <img src="https://avatars.githubusercontent.com/u/107800194?v=4" width="100px;" alt="Foto do Jociel no GitHub"/><br>
+        <sub>
+          <b>Jociel Andrade</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ruanvcg">
+        <img src="https://avatars.githubusercontent.com/u/62728646?v=4" width="100px;" alt="Foto do Ruan Victor no GitHub"/><br>
+        <sub>
+          <b>Ruan Victor</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/brunolimapinheiro">
+        <img src="https://avatars.githubusercontent.com/u/125039158?v=4" width="100px;" alt="Foto do Bruno Lima no GitHub"/><br>
+        <sub>
+          <b>Bruno Lima</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
