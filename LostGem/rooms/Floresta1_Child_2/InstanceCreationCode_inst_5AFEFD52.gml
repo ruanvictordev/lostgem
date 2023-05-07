@@ -1,0 +1,1 @@
+texto = ["se prepare... ","vem ai uma coisa muito forte... ", "você sabe o barulho que o sapo faz? ", "rueepilit "];

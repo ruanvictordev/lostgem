@@ -1,2 +1,0 @@
-texto = ["teste 123 ", "rueepilit ", "vem ai uma coisa muito forte ","igjeriogjeifgj dfigjidofgjidfogjdifogjfi dgjdifogjdfiogjifdogjifdogjfidgjidfogjiod fgjifgjdifgjidfgjidfgjifdgjifdjgidfgjio dfgjifjgidfjgidfgjdifogjidfgjdifgjdf iogjdofigjfidgjdfiogjidofgj"];
-		

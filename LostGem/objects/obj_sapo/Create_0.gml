@@ -12,7 +12,3 @@ energia = 0;
 sprite_normal = spr_sapo;
 sprite_ataque = spr_sapo_ataque;
 
-// dialogos
-
-texto = [""];
-meu_texto = noone;

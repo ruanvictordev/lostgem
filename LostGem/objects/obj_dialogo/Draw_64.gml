@@ -23,6 +23,8 @@ var yy = guia - 200;
 
 draw_set_color(c_white);
 draw_set_font(ft_dialogos);
-
-draw_text_ext(0 + 100, yy + 32, palavra, 32, room_width );
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);
+draw_text_ext( xx +  48, yy + 16, palavra, 32, guil - 64);
 draw_set_font(-1);
+
