@@ -27,3 +27,7 @@ xp = 2;
 numeroz = 0;
 
 morrer = false;
+
+// dialogos
+texto = [""];
+meu_texto = noone;
