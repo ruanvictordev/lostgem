@@ -14,4 +14,5 @@ sprite_ataque = spr_sapo_ataque;
 
 // dialogos
 
-texto = "";
+texto = [""];
+meu_texto = noone;
