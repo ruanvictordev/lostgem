@@ -99,6 +99,7 @@
     {"name":"spr_caixa","order":10,"path":"sprites/spr_caixa/spr_caixa.yy",},
     {"name":"obj_morcego","order":1,"path":"objects/obj_morcego/obj_morcego.yy",},
     {"name":"Floresta1_Child_2","order":2,"path":"rooms/Floresta1_Child_2/Floresta1_Child_2.yy",},
+    {"name":"som_de_batalha","order":4,"path":"sounds/som_de_batalha/som_de_batalha.yy",},
     {"name":"spr_lobo_ataque","order":1,"path":"sprites/spr_lobo_ataque/spr_lobo_ataque.yy",},
     {"name":"monstro_do_castelo_voando","order":3,"path":"sprites/monstro_do_castelo_voando/monstro_do_castelo_voando.yy",},
     {"name":"obj_sapo","order":12,"path":"objects/obj_sapo/obj_sapo.yy",},
