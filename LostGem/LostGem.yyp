@@ -154,6 +154,7 @@
     {"id":{"name":"obj_morcego","path":"objects/obj_morcego/obj_morcego.yy",},},
     {"id":{"name":"Floresta1_Child_2","path":"rooms/Floresta1_Child_2/Floresta1_Child_2.yy",},},
     {"id":{"name":"BODY_skeleton_movi_direita","path":"sprites/BODY_skeleton_movi_direita/BODY_skeleton_movi_direita.yy",},},
+    {"id":{"name":"som_de_batalha","path":"sounds/som_de_batalha/som_de_batalha.yy",},},
     {"id":{"name":"spr_lobo_ataque","path":"sprites/spr_lobo_ataque/spr_lobo_ataque.yy",},},
     {"id":{"name":"monstro_do_castelo_voando","path":"sprites/monstro_do_castelo_voando/monstro_do_castelo_voando.yy",},},
     {"id":{"name":"obj_sapo","path":"objects/obj_sapo/obj_sapo.yy",},},
