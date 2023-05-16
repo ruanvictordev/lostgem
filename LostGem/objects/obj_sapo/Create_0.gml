@@ -1,6 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-event_inherited();
+event_inherited(); // herdar as informações do pai
 xp = 8;
 max_hp = 12;
 hp = max_hp;

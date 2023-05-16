@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "lobo_negro_aproximacao",
-  "bbox_bottom": 466,
+  "bbox_bottom": 381,
   "bbox_left": 0,
   "bbox_right": 726,
-  "bbox_top": 85,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -21,7 +21,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 467,
+  "height": 382,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"30f4063d-7403-4b10-8975-04743ee2cb82","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -78,5 +78,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 729,
+  "width": 727,
 }
