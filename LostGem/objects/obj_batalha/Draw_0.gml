@@ -5,13 +5,14 @@ if (room == Floresta1_Batalha){
 	
 	var select = keyboard_check_released(ord("X"));
 	var dselect = keyboard_check_released(ord("Z"));
-	
+
 	
 	
 	//Desenho Caixa Menu
 	draw_rectangle_color(0, room_height, room_width, room_height-60, c_blue, c_blue, c_blue, c_blue, false);
 	draw_rectangle_color(0, room_height, room_width, room_height-60, c_black, c_black,  c_black,  c_black,true);
-
+	
+	
 
 	switch(momento){
 		
