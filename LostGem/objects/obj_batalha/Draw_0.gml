@@ -55,9 +55,9 @@ if (room == Floresta1_Batalha){
 			switch(posicao){
 				case 0:
 				if(heroi_atual.defendendo == true){
+					heroi_atual.estado = "normal";
 					heroi_atual.def /=2;
 					heroi_atual.defendendo = false;
-					heroi_atual.estado = "normal";
 				}
 				momento++;
 				break;
@@ -72,8 +72,8 @@ if (room == Floresta1_Batalha){
 				
 				case 2:
 				global.batalha = false;
-				momento = 0;
 				heroi_atual.estado = "normal";
+				momento = 0;
 				heroi_atual.def = 4;
 				heroi_atual = 0;
 				//destruindo lista de inimigos
