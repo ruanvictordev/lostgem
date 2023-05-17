@@ -1,1 +1,0 @@
-texto=["o texto ", " segundo texto "];

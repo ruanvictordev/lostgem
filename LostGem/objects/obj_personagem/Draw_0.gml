@@ -36,16 +36,16 @@ if (room == Floresta1_Batalha){
 			estado = "normal";
 		}
 	}
+	
+	if (defendendo == true){
+		sprite_index = sprite_defesa;
+	}
+	
 	if (hp < 0){
 		instance_destroy();
 		room_goto(tela_game_over);
 	}
 	
-	if (defendendo ==true){ 
-		sprite_index = sprite_defesa;
-	}
 	
 	
-	
-	//draw_text(10,10, energia)
 }
