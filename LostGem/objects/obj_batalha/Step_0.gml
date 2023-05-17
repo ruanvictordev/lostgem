@@ -6,8 +6,7 @@ if (global.batalha == false){
 	global.ponto_atual = irandom(global.intervalo_batalha);
 	
 	if(global.ponto_atual == global.intervalo_batalha && global.intervalo_batalha < 800 && obj_personagem.movendo == true){
-	   audio_stop_all()
-	   audio_play_sound(som_de_batalha,1,false);
+		
 		//entrando na batalha novamente
 		origem = room;
 		origemx = obj_personagem.x;
@@ -31,10 +30,9 @@ if (room == Floresta1_Batalha){
 		tran.xx = origemx;
 		tran.yy = origemy;
 		tran.direcao = direcao;
+		
 		tran.cor = c_green;
 		tran.vel = 0.1
-		audio_stop_all()
-		audio_play_sound(FundoJogo,1,false);
 	}
 	
 	// está na batalha
