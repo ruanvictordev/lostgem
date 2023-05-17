@@ -40,7 +40,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.0.71",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
     {"id":{"name":"Guerreiro_ataque1","path":"sprites/Guerreiro_ataque1/Guerreiro_ataque1.yy",},},
@@ -100,6 +100,7 @@
     {"id":{"name":"spr_cavaleiro_andando_esquerda","path":"sprites/spr_cavaleiro_andando_esquerda/spr_cavaleiro_andando_esquerda.yy",},},
     {"id":{"name":"obj_dragon","path":"objects/obj_dragon/obj_dragon.yy",},},
     {"id":{"name":"spr_lobo","path":"sprites/spr_lobo/spr_lobo.yy",},},
+    {"id":{"name":"dragao_ataque180","path":"sprites/dragao_ataque180/dragao_ataque180.yy",},},
     {"id":{"name":"ts_vila1","path":"tilesets/ts_vila1/ts_vila1.yy",},},
     {"id":{"name":"spr_teste_cavaleiro_ataque","path":"sprites/spr_teste_cavaleiro_ataque/spr_teste_cavaleiro_ataque.yy",},},
     {"id":{"name":"JoiaLostGem","path":"sprites/JoiaLostGem/JoiaLostGem.yy",},},
@@ -143,6 +144,7 @@
     {"id":{"name":"spr_cavaleiro_parado_cima","path":"sprites/spr_cavaleiro_parado_cima/spr_cavaleiro_parado_cima.yy",},},
     {"id":{"name":"monstro_bola_ataque","path":"sprites/monstro_bola_ataque/monstro_bola_ataque.yy",},},
     {"id":{"name":"Floresta1_Child_0","path":"rooms/Floresta1_Child_0/Floresta1_Child_0.yy",},},
+    {"id":{"name":"dragao_estatico79","path":"sprites/dragao_estatico79/dragao_estatico79.yy",},},
     {"id":{"name":"ts_natureza2","path":"tilesets/ts_natureza2/ts_natureza2.yy",},},
     {"id":{"name":"Object14","path":"objects/Object14/Object14.yy",},},
     {"id":{"name":"FundoJogo","path":"sounds/FundoJogo/FundoJogo.yy",},},
