@@ -4,7 +4,7 @@
   "name": "spr_caixa",
   "bbox_bottom": 199,
   "bbox_left": 0,
-  "bbox_right": 1107,
+  "bbox_right": 1279,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1108,
+  "width": 1280,
 }
