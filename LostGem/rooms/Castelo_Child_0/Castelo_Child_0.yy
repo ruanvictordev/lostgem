@@ -57,6 +57,7 @@
     {"name":"inst_4A7620B1","path":"rooms/Castelo_Child_0/Castelo_Child_0.yy",},
     {"name":"inst_27DB3848","path":"rooms/Castelo_Child_0/Castelo_Child_0.yy",},
     {"name":"inst_98D2017","path":"rooms/Castelo_Child_0/Castelo_Child_0.yy",},
+    {"name":"inst_738A2357","path":"rooms/Castelo_Child_0/Castelo_Child_0.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -127,6 +128,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4A7620B1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"rotation":0.0,"scaleX":9.75,"scaleY":1.0,"x":564.0,"y":472.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_27DB3848","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},"properties":[],"rotation":0.0,"scaleX":4.5,"scaleY":1.0,"x":336.0,"y":472.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_98D2017","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"rotation":0.0,"scaleX":2.75,"scaleY":1.25,"x":220.0,"y":52.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_738A2357","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_textos","path":"objects/obj_textos/obj_textos.yy",},"properties":[],"rotation":0.0,"scaleX":0.125,"scaleY":0.125,"x":40.0,"y":128.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"personagem","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":true,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":false,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_674F9B0F_1_1","colour":4294967295,"frozen":true,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_674F9B0F_1_1","path":"rooms/Castelo/Castelo.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"camera","path":"objects/camera/camera.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":64.0,},

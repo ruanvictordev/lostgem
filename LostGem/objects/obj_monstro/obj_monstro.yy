@@ -30,10 +30,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "monstro_aleatorio",
-    "path": "sprites/monstro_aleatorio/monstro_aleatorio.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
