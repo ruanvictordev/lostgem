@@ -3,8 +3,9 @@ if (!instance_exists(obj_batalha)){
 }
 
 // Definindo inimigos
+global.intervalo_batalha = 1500;
 global.inimigos = [obj_lobo_negro];
-global.qtdinimigos = 0;
+global.qtdinimigos = 1;
 
 
 if(room = Floresta1_Batalha){

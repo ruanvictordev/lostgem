@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_lobo_negro",
+  "name": "obj_textos",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -12,10 +12,7 @@
     "name": "Objetos",
     "path": "folders/Objetos.yy",
   },
-  "parentObjectId": {
-    "name": "obj_monstro_planta",
-    "path": "objects/obj_monstro_planta/obj_monstro_planta.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -32,9 +29,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "lobo_negro_estatico",
-    "path": "sprites/lobo_negro_estatico/lobo_negro_estatico.yy",
+    "name": "spr_caixa_texto",
+    "path": "sprites/spr_caixa_texto/spr_caixa_texto.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

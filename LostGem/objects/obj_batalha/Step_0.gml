@@ -8,6 +8,7 @@ if (global.batalha == false){
 	if(global.ponto_atual == global.intervalo_batalha && global.intervalo_batalha < 800 && obj_personagem.movendo == true){
 	   audio_stop_all()
 	   audio_play_sound(som_de_batalha,1,false);
+	   
 		//entrando na batalha novamente
 		origem = room;
 		origemx = obj_personagem.x;
@@ -41,5 +42,6 @@ if (room == Floresta1_Batalha){
 	// chequando se a inimigo na batalha
 	if (!instance_exists(obj_monstro_planta)){
 		global.batalha = false;
+		global.bossbattle = false;
 	}
 }

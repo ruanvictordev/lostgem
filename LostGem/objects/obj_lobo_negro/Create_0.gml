@@ -12,3 +12,4 @@ energia = 0;
 
 sprite_normal = lobo_negro_estatico;
 sprite_ataque = lobo_negro_aproximacao;
+
