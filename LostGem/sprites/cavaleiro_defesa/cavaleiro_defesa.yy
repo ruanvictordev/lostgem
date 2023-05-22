@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_cavaleiro_defesa",
+  "name": "cavaleiro_defesa",
   "bbox_bottom": 48,
   "bbox_left": 0,
   "bbox_right": 24,
@@ -33,7 +33,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_cavaleiro_defesa",
+    "name": "cavaleiro_defesa",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -55,8 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7c493701-e3bd-478d-9d48-bfac69e07da5","path":"sprites/spr_cavaleiro_defesa/spr_cavaleiro_defesa.yy",},},},"Disabled":false,"id":"f13b684a-f5ff-4576-97a5-43561f012fbd","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"888ac631-d845-408d-b6d6-9ca924257470","path":"sprites/spr_cavaleiro_defesa/spr_cavaleiro_defesa.yy",},},},"Disabled":false,"id":"aa3d3965-e3f4-4ff2-a855-3985cc9bf6c9","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7c493701-e3bd-478d-9d48-bfac69e07da5","path":"sprites/cavaleiro_defesa/cavaleiro_defesa.yy",},},},"Disabled":false,"id":"f13b684a-f5ff-4576-97a5-43561f012fbd","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"888ac631-d845-408d-b6d6-9ca924257470","path":"sprites/cavaleiro_defesa/cavaleiro_defesa.yy",},},},"Disabled":false,"id":"aa3d3965-e3f4-4ff2-a855-3985cc9bf6c9","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

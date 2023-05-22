@@ -18,7 +18,7 @@ movendo = false;
 
 sprite_luta = spr_cavaleiro_parado_direita;
 sprite_ataque = spr_cavaleiro_ataque;
-sprite_defesa = spr_cavaleiro_defesa;
+sprite_defesa = cavaleiro_defesa;
 
 inimigo_atual = noone;
 

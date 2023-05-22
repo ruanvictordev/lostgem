@@ -1,15 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-// efeito de dano
-
-if(dano){
-	if (sumir) image_alpha -= .2;
-	if (!sumir) image_alpha += .3;
-	if (image_alpha <= 0) sumir = false;
-	if (image_alpha >= 0.1) sumir = true;
-}
-
 // dialogo
 if (distance_to_object(obj_personagem) <= 10){
 	if (keyboard_check_pressed(ord("E"))){
@@ -24,20 +15,16 @@ if (distance_to_object(obj_personagem) <= 10){
 				instance_destroy(meu_texto);
 				meu_texto = noone;
 				obj_personagem.veloc = 2;
-				global.bossbattle = true;
 			}
 			else {
 				with(meu_texto){
 					if (letra < tamnho_texto){
 						letra = tamnho_texto;
-						obj_personagem.veloc = 2;
 					}
 					else {
 						pag ++;
 						letra = 0;
-						obj_personagem.veloc = 2;
 					}
-				
 				}
 			}
 		}
