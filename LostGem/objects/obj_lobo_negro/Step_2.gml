@@ -7,7 +7,7 @@ if (room == Floresta1_Batalha){
 		tran.yy = 398;
 		tran.cor = c_blue;
 		tran.vel = 0.08;
-		
+		instance_destroy();
 		instance_deactivate_object(obj_personagem);
 		room_goto(Castelo)
 		instance_create_layer(377,398, "Personagem",obj_personagem);
