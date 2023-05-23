@@ -27,11 +27,19 @@ So get ready for the adventure of a lifetime with LostGem, where you'll guide yo
 ### Player Characters: 
 
 - Knight
+- Mage 
+- Druid 
+- Valkyrie
+
+### Random Enemyes: 
+
+- Goblin(Forest)
+- Skeleton(Graveyard)
+- Lamia(Castle)
 
 ### Boss: 
 
-- Belinha(Forest)
-- Ddragon(Lava)
+- Leshy(Forest)
 - Vampire(Castle)
 
 ## 🔨 Tools
