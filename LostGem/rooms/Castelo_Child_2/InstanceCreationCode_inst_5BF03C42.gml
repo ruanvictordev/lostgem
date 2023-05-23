@@ -1,0 +1,1 @@
+texto = ["Retrato da Princesa Kelly "];

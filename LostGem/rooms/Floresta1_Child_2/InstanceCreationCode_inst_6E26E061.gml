@@ -1,1 +1,1 @@
-texto = ["Esses dias conheci um cara chamado fred ","ele disse que veio do espaço ", "que loucura kjajaja um sapo no espaço "]
+texto = ["Esses dias conheci um cara chamado fred ","ele disse que veio do espaço ", "que loucura kjajaja um sapo no espaço "];

@@ -6,7 +6,7 @@ xp = 11;
 max_hp = 15;
 hp = max_hp;
 atq = 19;
-def = 3;
+def = 2;
 agi = 2;
 energia = 0;
 

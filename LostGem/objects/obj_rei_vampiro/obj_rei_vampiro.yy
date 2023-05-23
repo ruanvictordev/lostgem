@@ -4,6 +4,7 @@
   "name": "obj_rei_vampiro",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -31,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_rei_vampiro_estatico",
-    "path": "sprites/spr_rei_vampiro_estatico/spr_rei_vampiro_estatico.yy",
+    "name": "spr_rei_vampiro",
+    "path": "sprites/spr_rei_vampiro/spr_rei_vampiro.yy",
   },
   "spriteMaskId": null,
   "visible": true,
