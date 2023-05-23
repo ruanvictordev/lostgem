@@ -40,6 +40,6 @@ else if (direcao != 0) {
 		posicao_i = 0;
 		posicao_h = 0;
 	}
-	obj_personagem.hp = obj_personagem.max_hp;
+	
 	obj_personagem.sprite_index = direcao;
 }

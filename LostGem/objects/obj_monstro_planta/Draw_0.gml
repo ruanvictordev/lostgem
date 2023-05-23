@@ -39,6 +39,7 @@ if (room == Floresta1_Batalha){
 		}
 		else if(estado == "ataque"){
 			sprite_index = sprite_ataque;
+			image_speed = 1;
 			if (defendendo){
 				defendendo = false;
 				def /=2;
