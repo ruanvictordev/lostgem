@@ -16,23 +16,13 @@
 		tran.destino = Floresta1_Batalha;
 		tran.xx = 100;
 		tran.yy = 100;
-		tran.cor = c_red;
+		tran.cor = c_purple;
 		tran.vel = 0.05
 		global.batalha = true;
 		global.intervalo_batalha = 1000;	
 	}
 }
 if (room == Floresta1_Batalha){ 
-	if (global.batalha == false){ //saindo batalha
-		tran.destino = Castelo;
-		tran.xx = 377;
-		tran.yy = 398;
-		tran.cor = c_blue;
-		tran.vel = 0.08
-		audio_stop_all()
-		audio_play_sound(FundoJogo,1,false);
-		
-	}
 	
 	// está na batalha
 	// chequando se a inimigo na batalha

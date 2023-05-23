@@ -1,0 +1,1 @@
+texto = ["parabens... ", "graças a mim você não foi assistir guardiões 3 muhahahaha "];

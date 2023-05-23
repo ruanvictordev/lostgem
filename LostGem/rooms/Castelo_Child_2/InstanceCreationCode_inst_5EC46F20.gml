@@ -1,0 +1,1 @@
+texto = ["Então você derrotou o meu amigo Kleber que protegia a entrada ","Parabens por esse feito incrivel ","Mas você sera capaz de me derrotar? "];

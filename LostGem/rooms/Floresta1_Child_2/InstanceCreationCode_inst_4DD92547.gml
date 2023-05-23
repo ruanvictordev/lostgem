@@ -1,1 +1,1 @@
-texto = ["parabens... ", "graças a mim você não foi assistir guardiões 3 muhahahaha "];
+texto = ["O Rei Vampiro ficou muito cruel depois que a princesa faleceu "];
