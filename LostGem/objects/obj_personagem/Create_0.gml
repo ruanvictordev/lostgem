@@ -18,7 +18,7 @@ movendo = false;
 
 sprite_luta = spr_cavaleiro_parado_direita;
 sprite_ataque = spr_cavaleiro_ataque;
-sprite_defesa = cavaleiro_defesa;
+sprite_defesa = spr_cavaleiro_defesa;
 
 inimigo_atual = noone;
 
@@ -33,7 +33,7 @@ max_atq = 5;
 atq = max_atq;
 defendendo = false;
 def = 4;
-agi = 4;
+agi = 2;
 max_energia = 100;
 energia = irandom(max_energia);
 max_xp = 10;
