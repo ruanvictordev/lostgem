@@ -1,4 +1,5 @@
 <h1 align="center">
+    <img src="https://i.ibb.co/pjM3V1q/092200.png">
     <p>LostGem</p>
 </h1>
 
