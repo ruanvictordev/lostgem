@@ -1,6 +1,6 @@
 <h1 align="center">
     <p>LostGem</p>
-    <img src="https://i.ibb.co/pjM3V1q/092200.png">
+    <img src="https://i.ibb.co/pjM3V1q/092200.png" width="200px">
 </h1>
 
 ## 📘 About
