@@ -1,0 +1,1 @@
+texto = ["O importante é vencer a batalha e não a guerra - Kelly Princesa "];
