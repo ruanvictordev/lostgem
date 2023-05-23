@@ -42,7 +42,6 @@
     {"name":"ft_dialogos","order":1,"path":"fonts/ft_dialogos/ft_dialogos.yy",},
     {"name":"spr_modelo_cavaleiro_parado","order":7,"path":"sprites/spr_modelo_cavaleiro_parado/spr_modelo_cavaleiro_parado.yy",},
     {"name":"obj_monstro_planta","order":5,"path":"objects/obj_monstro_planta/obj_monstro_planta.yy",},
-    {"name":"rei_vampiro_sentado","order":6,"path":"sprites/rei_vampiro_sentado/rei_vampiro_sentado.yy",},
     {"name":"JoiaLostGem_giro","order":2,"path":"sprites/JoiaLostGem_giro/JoiaLostGem_giro.yy",},
     {"name":"spr_modelo_cavaleiro_andando","order":1,"path":"sprites/spr_modelo_cavaleiro_andando/spr_modelo_cavaleiro_andando.yy",},
     {"name":"spr_cavaleiro_parado_baixo","order":10,"path":"sprites/spr_cavaleiro_parado_baixo/spr_cavaleiro_parado_baixo.yy",},

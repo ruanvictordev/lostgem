@@ -40,7 +40,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.0.71",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
     {"id":{"name":"Floresta1_Child_1","path":"rooms/Floresta1_Child_1/Floresta1_Child_1.yy",},},
@@ -70,7 +70,6 @@
     {"id":{"name":"spr_modelo_cavaleiro_parado","path":"sprites/spr_modelo_cavaleiro_parado/spr_modelo_cavaleiro_parado.yy",},},
     {"id":{"name":"spt_tile_objetovila2","path":"sprites/spt_tile_objetovila2/spt_tile_objetovila2.yy",},},
     {"id":{"name":"obj_monstro_planta","path":"objects/obj_monstro_planta/obj_monstro_planta.yy",},},
-    {"id":{"name":"rei_vampiro_sentado","path":"sprites/rei_vampiro_sentado/rei_vampiro_sentado.yy",},},
     {"id":{"name":"JoiaLostGem_giro","path":"sprites/JoiaLostGem_giro/JoiaLostGem_giro.yy",},},
     {"id":{"name":"spr_modelo_cavaleiro_andando","path":"sprites/spr_modelo_cavaleiro_andando/spr_modelo_cavaleiro_andando.yy",},},
     {"id":{"name":"spr_cavaleiro_parado_baixo","path":"sprites/spr_cavaleiro_parado_baixo/spr_cavaleiro_parado_baixo.yy",},},

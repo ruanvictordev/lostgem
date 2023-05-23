@@ -25,9 +25,9 @@
 if (room == Floresta1_Batalha){ 
 	if (global.batalha == false){ //saindo batalha
 		tran.destino = Castelo;
-		tran.xx = 379;
+		tran.xx = 377;
 		tran.yy = 398;
-		tran.cor = c_white;
+		tran.cor = c_blue;
 		tran.vel = 0.08
 		audio_stop_all()
 		audio_play_sound(FundoJogo,1,false);
