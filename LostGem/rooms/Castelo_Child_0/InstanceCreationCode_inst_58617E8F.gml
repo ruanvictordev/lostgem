@@ -1,0 +1,1 @@
+texto = ["É melhor você fugir forasteiro... ", "logo a frente tem mais um dos vassalos dele "];

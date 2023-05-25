@@ -1,0 +1,1 @@
+texto = ["Quadro pintado para o meu querido Rei Werney ","Autor desconhecido... "]

@@ -1,0 +1,1 @@
+texto = ["cuidado, agora você está no território do Rei Vampiro ","Se seguir em frente você irá encontrar um de seus vassalos "];

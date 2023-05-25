@@ -1,0 +1,1 @@
+texto = ["parece que você foi mandado para este local após derrotar aquele Monstro "];

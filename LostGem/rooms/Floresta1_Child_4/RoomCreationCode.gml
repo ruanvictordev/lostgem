@@ -3,7 +3,7 @@ if (!instance_exists(obj_batalha)){
 }
 
 // Definindo inimigos
-global.intervalo_batalha = 1500;
+global.intervalo_batalha = 3000;
 global.inimigos = [obj_lobo_negro];
 global.qtdinimigos = 1;
 

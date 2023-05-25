@@ -2,9 +2,9 @@
 // Você pode escrever seu código neste editor
 event_inherited();
 xp = 8;
-max_hp = 30;
+max_hp = 27;
 hp = max_hp;
-atq = 16;
+atq = 20;
 def = 2;
 agi = 2;
 energia = 0;

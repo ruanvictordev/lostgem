@@ -2,10 +2,10 @@
 // Você pode escrever seu código neste editor
 
 //Atributos
-max_hp = 14;
+max_hp = 12;
 hp = max_hp;
-atq = 12;
-def = 2;
+atq = 10;
+def = 1;
 agi = 1;
 
 dano = false;
