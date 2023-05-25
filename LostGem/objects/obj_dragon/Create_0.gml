@@ -3,9 +3,9 @@
 event_inherited();
 
 xp = 11;
-max_hp = 15;
+max_hp = 20;
 hp = max_hp;
-atq = 19;
+atq = 18;
 def = 2;
 agi = 2;
 energia = 0;

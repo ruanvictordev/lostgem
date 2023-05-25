@@ -1,6 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-opcoes = ["novo jogo","carregar jogo","opções","sair"];
+opcoes = ["novo jogo","opções","créditos","sair"];
 
 index = 0;
 

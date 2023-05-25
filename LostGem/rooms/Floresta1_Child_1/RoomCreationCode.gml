@@ -3,7 +3,7 @@ if (!instance_exists(obj_batalha)){
 }
 
 // Definindo inimigos
-global.inimigos = [obj_monstro_planta, obj_lobo];
+global.inimigos = [obj_monstro_planta, obj_morcego];
 global.qtdinimigos = 2;
 
 if(room = Floresta1_Batalha){

@@ -3,11 +3,11 @@
 event_inherited();
 
 xp = 9;
-max_hp = 11;
+max_hp = 15;
 hp = max_hp;
-atq = 18;
-def = 1;
-agi = 1;
+atq = 17;
+def = 2;
+agi = 2;
 energia = 0;
 
 sprite_normal = lobo_negro_estatico;

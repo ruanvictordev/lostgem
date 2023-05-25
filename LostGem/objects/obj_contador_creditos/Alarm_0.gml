@@ -1,6 +1,8 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-
-//morrendo
-
-if(hp <=0) instance_destroy();
+tempo -=1;
+if(tempo ==0){
+	game_end();
+	tempo = 37;
+}
+alarm[0] = 60;
