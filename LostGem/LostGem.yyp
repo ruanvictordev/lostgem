@@ -121,6 +121,7 @@
     {"id":{"name":"BODY_skeleton_parado_esquerdo","path":"sprites/BODY_skeleton_parado_esquerdo/BODY_skeleton_parado_esquerdo.yy",},},
     {"id":{"name":"planta_da_floresta","path":"sprites/planta_da_floresta/planta_da_floresta.yy",},},
     {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},},
+    {"id":{"name":"som_do_castelo","path":"sounds/som_do_castelo/som_do_castelo.yy",},},
     {"id":{"name":"spr_caixa_texto","path":"sprites/spr_caixa_texto/spr_caixa_texto.yy",},},
     {"id":{"name":"obj_rei_vampiro","path":"objects/obj_rei_vampiro/obj_rei_vampiro.yy",},},
     {"id":{"name":"obj_ativar_boss1","path":"objects/obj_ativar_boss1/obj_ativar_boss1.yy",},},

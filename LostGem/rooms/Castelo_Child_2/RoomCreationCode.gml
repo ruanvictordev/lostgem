@@ -5,7 +5,7 @@ global.intervalo_batalha = 6000;
 // Definindo inimigos
 global.inimigos = [obj_rei_vampiro];
 global.qtdinimigos = 1;
-
+audio_stop_all();
 if(room = Floresta1_Batalha){
 	room_goto_next()
 }
