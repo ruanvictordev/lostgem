@@ -34,9 +34,15 @@ if (room == Floresta1_Batalha){
 		tran.direcao = direcao;
 		tran.cor = c_green;
 		tran.vel = 0.1
-		audio_stop_all()
-		audio_play_sound(FundoJogo,1,false);
-	}
+		if (origem == Floresta1 || origem == Floresta1_Child_0 || origem == Floresta1_Child_1 || origem == Floresta1_Child_2 || origem == Floresta1_Child_3 || origem == Floresta1_Child_4){
+			audio_stop_all()
+			audio_play_sound(FundoJogo,1,false);
+		}
+		if (origem == Castelo || origem ==Castelo_Child_0 || origem == Castelo_Child_1 || origem == Castelo_Child_2 ){
+			audio_stop_all()
+			audio_play_sound(som_do_castelo,1,false);
+		}
+		}
 	
 	// está na batalha
 	// chequando se a inimigo na batalha

@@ -79,6 +79,7 @@
     {"name":"Ambiente1_Child_1","order":1,"path":"rooms/Ambiente1_Child_1/Ambiente1_Child_1.yy",},
     {"name":"planta_da_floresta","order":11,"path":"sprites/planta_da_floresta/planta_da_floresta.yy",},
     {"name":"Sprite22","order":18,"path":"sprites/Sprite22/Sprite22.yy",},
+    {"name":"som_do_castelo","order":9,"path":"sounds/som_do_castelo/som_do_castelo.yy",},
     {"name":"spr_caixa_texto","order":14,"path":"sprites/spr_caixa_texto/spr_caixa_texto.yy",},
     {"name":"obj_rei_vampiro","order":20,"path":"objects/obj_rei_vampiro/obj_rei_vampiro.yy",},
     {"name":"obj_ativar_boss1","order":16,"path":"objects/obj_ativar_boss1/obj_ativar_boss1.yy",},
