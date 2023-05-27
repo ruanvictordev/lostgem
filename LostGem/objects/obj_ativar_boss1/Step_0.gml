@@ -4,7 +4,7 @@
 	 if (global.batalha == false){
 		global.ponto_atual = global.intervalo_batalha;
 		audio_stop_all();
-		audio_play_sound(som_boss1,1,true);
+		audio_play_sound(som_para_boss,1,true);
 		
 		//entrando na batalha novamente
 		origem = room;
