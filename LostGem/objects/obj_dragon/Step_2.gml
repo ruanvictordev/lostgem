@@ -13,8 +13,8 @@ if (room == Floresta1_Batalha){
 		instance_deactivate_object(obj_personagem);
 		room_goto(Castelo_Child_2)
 		instance_create_layer(355,430, "Personagem",obj_personagem);
-		audio_stop_all()
-		audio_play_sound(FundoJogo,1,false);
+		audio_stop_all();
+		audio_play_sound(som_do_castelo,1,true);
 			
 	}
 	// está na batalha
