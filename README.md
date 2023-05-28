@@ -22,25 +22,8 @@ But the final reward is worth it: if you and your heroes manage to overcome the 
 So get ready for the adventure of a lifetime with LostGem, where you'll guide your heroes through an incredible journey, facing dangers and saving the world!
 
 
-## 🧙 Characters
 
-### Player Characters: 
 
-- Knight
-- Mage 
-- Druid 
-- Valkyrie
-
-### Random Enemyes: 
-
-- Goblin(Forest)
-- Skeleton(Graveyard)
-- Lamia(Castle)
-
-### Boss: 
-
-- Leshy(Forest)
-- Vampire(Castle)
 
 ## 🔨 Tools
 
