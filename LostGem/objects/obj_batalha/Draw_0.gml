@@ -75,6 +75,7 @@ if (room == Floresta1_Batalha){
 				heroi_atual.estado = "normal";
 				momento = 0;
 				heroi_atual.def = 4;
+				heroi_atual.energia = 0;
 				heroi_atual = 0;
 				//destruindo lista de inimigos
 				ds_list_destroy(global.inimigo_batalha);

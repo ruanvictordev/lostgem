@@ -35,6 +35,9 @@ if (room == Floresta1_Batalha){
 					energia = 0;
 
 				}
+			obj_batalha.inimigo_ataque = self;
+			estado = choose("ataque", "ataque", "defesa");
+			energia = 0;
 			}
 		}
 		else if(estado == "ataque"){
